@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7b16591-7e2e-4f75-af43-b38562b35faa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Completed code/Education fees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Completed code/Milestone Project 2 - Blackjack Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Completed code/New Milestone Project 26-2-2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Completed code/New Time table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Completed code/Time Table 10-2-2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Completed code/guarantee a fixed monthly and annual income.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code Complet/Education fees.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code Complet/Milestone Project 2 - Blackjack Game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code Complet/New Milestone Project 26-2-2020.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code Complet/New Time table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code Complet/Time Table 10-2-2020.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code Complet/guarantee a fixed monthly and annual income.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -365,7 +376,7 @@
       <workItem from="1584392175921" duration="470000" />
       <workItem from="1584430715919" duration="62000" />
       <workItem from="1584431344562" duration="2571000" />
-      <workItem from="1584434835293" duration="1267000" />
+      <workItem from="1584434835293" duration="3324000" />
     </task>
     <task id="LOCAL-00001" summary="25-1">
       <created>1579882951755</created>
@@ -577,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584435448731</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="First 17-3-2020">
+      <created>1584444200455</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1584444200455</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -668,12 +686,12 @@
     </state>
     <state x="511" y="188" width="459" height="482" key="#com.intellij.tools.ToolEditorDialog/0.0.1280.720@0.0.1280.720" timestamp="1580832073705" />
     <state x="639" y="235" key="#com.intellij.tools.ToolEditorDialog/0.0.1600.900@0.0.1600.900" timestamp="1580982590121" />
-    <state x="331" y="0" key="CommitChangelistDialog2" timestamp="1584435445450">
+    <state x="331" y="0" key="CommitChangelistDialog2" timestamp="1584444195983">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.690@0.0.1280.690" timestamp="1579885656796" />
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1584392712809" />
-    <state x="331" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1584435445450" />
+    <state x="331" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1584444195983" />
     <state x="94" y="94" width="1093" height="502" maximized="true" key="DiffContextDialog" timestamp="1580055183036">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
