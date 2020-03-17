@@ -1,2 +1,0 @@
-print('osama')
-print('ahmed')
