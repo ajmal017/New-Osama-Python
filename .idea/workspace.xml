@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7b16591-7e2e-4f75-af43-b38562b35faa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Completed code/Education fees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Completed code/Milestone Project 2 - Blackjack Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Completed code/New Milestone Project 26-2-2020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Completed code/New Time table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Completed code/Time Table 10-2-2020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Completed code/guarantee a fixed monthly and annual income.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code Complet/Education fees.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code Complet/Milestone Project 2 - Blackjack Game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code Complet/New Milestone Project 26-2-2020.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code Complet/New Time table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code Complet/Time Table 10-2-2020.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code Complet/guarantee a fixed monthly and annual income.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Study/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Study/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For Study/whatsapp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Osama.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Osama.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For Study/Osama Study.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/For Study/Osama Study.py" beforeDir="false" afterPath="$PROJECT_DIR$/For Study/Osama Study.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +71,7 @@
       <recent name="https://github.com/engosama69/OsamaPython/blob/master/New%20Test.py" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\Project\00-New-Osama-Python\For Study" />
       <recent name="D:\python\PycharmProjects\OsamaPython" />
       <recent name="D:\python\PycharmProjects\Complete-Python-3-Bootcamp\04-Milestone Project - 1" />
       <recent name="D:\" />
@@ -125,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test For file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cookies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,12 +130,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="C:/coursera-dl/coursera" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test For file.py" />
+      <option name="SCRIPT_NAME" value="C:/coursera-dl/coursera/cookies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test33" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="whatsapp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,12 +174,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/For Study" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test33.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For Study/whatsapp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,10 +191,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Osama Study" />
+        <item itemvalue="Python.cookies" />
+        <item itemvalue="Python.whatsapp" />
         <item itemvalue="Python.Make yagamil Like app 16-3-2020" />
         <item itemvalue="Python.osamasendemail" />
-        <item itemvalue="Python.Test For file" />
-        <item itemvalue="Python.test33" />
       </list>
     </recent_temporary>
   </component>
@@ -377,6 +374,36 @@
       <workItem from="1584430715919" duration="62000" />
       <workItem from="1584431344562" duration="2571000" />
       <workItem from="1584434835293" duration="3324000" />
+      <workItem from="1584456282079" duration="60000" />
+      <workItem from="1584456537510" duration="978000" />
+      <workItem from="1584472838445" duration="1854000" />
+      <workItem from="1584547646316" duration="7430000" />
+      <workItem from="1584563434390" duration="1178000" />
+      <workItem from="1584611537195" duration="7408000" />
+      <workItem from="1584736261690" duration="594000" />
+      <workItem from="1584779656415" duration="742000" />
+      <workItem from="1584782374182" duration="63000" />
+      <workItem from="1584782460020" duration="698000" />
+      <workItem from="1584783240882" duration="640000" />
+      <workItem from="1584784727559" duration="786000" />
+      <workItem from="1584796735980" duration="71000" />
+      <workItem from="1584796869492" duration="1007000" />
+      <workItem from="1584797938821" duration="441000" />
+      <workItem from="1584798404804" duration="9000" />
+      <workItem from="1584798434955" duration="7000" />
+      <workItem from="1584798474209" duration="598000" />
+      <workItem from="1584896581543" duration="1523000" />
+      <workItem from="1584959863883" duration="684000" />
+      <workItem from="1585163408896" duration="292000" />
+      <workItem from="1585163791350" duration="23000" />
+      <workItem from="1585163858763" duration="206000" />
+      <workItem from="1585164165677" duration="260000" />
+      <workItem from="1585165142118" duration="97000" />
+      <workItem from="1585165262522" duration="509000" />
+      <workItem from="1585165792815" duration="1147000" />
+      <workItem from="1585166965938" duration="1266000" />
+      <workItem from="1585168458350" duration="904000" />
+      <workItem from="1585176194391" duration="550000" />
     </task>
     <task id="LOCAL-00001" summary="25-1">
       <created>1579882951755</created>
@@ -649,11 +676,16 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="370" y="0" key="#New_Test/0.0.1280.720@0.0.1280.720" timestamp="1580054534311" />
-    <state x="293" y="7" key="#Notifications" timestamp="1581508431975">
-      <screen x="0" y="0" width="1600" height="900" />
+    <state x="234" y="6" key="#Notifications" timestamp="1584797245802">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="234" y="5" key="#Notifications/0.0.1280.690@0.0.1280.690" timestamp="1579882000157" />
+    <state x="234" y="6" key="#Notifications/0.0.1280.720@0.0.1280.720" timestamp="1584797245802" />
     <state x="293" y="7" key="#Notifications/0.0.1600.900@0.0.1600.900" timestamp="1581508431975" />
+    <state x="370" y="0" key="#Osama_Study" timestamp="1585163810758">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="370" y="0" key="#Osama_Study/0.0.1280.720@0.0.1280.720" timestamp="1585163810758" />
     <state x="526" y="91" key="#PythonExercies" timestamp="1581316749373">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
@@ -696,39 +728,39 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="94" y="94" width="1093" height="502" maximized="true" key="DiffContextDialog/0.0.1280.690@0.0.1280.690" timestamp="1579885755158" />
-    <state x="422" y="106" width="679" height="491" key="FileChooserDialogImpl" timestamp="1584371109449">
+    <state x="422" y="106" width="679" height="491" key="FileChooserDialogImpl" timestamp="1585176925983">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="422" y="102" key="FileChooserDialogImpl/0.0.1280.690@0.0.1280.690" timestamp="1579882857294" />
-    <state x="422" y="106" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1584371109449" />
+    <state x="422" y="106" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1585176925983" />
     <state x="528" y="133" width="679" height="491" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1584358892513" />
     <state x="412" y="228" key="Github.CreatePullRequestDialog" timestamp="1584370877800">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="412" y="228" key="Github.CreatePullRequestDialog/0.0.1280.720@0.0.1280.720" timestamp="1584370877800" />
-    <state width="877" height="748" key="GridCell.Tab.0.bottom" timestamp="1584434690811">
-      <screen x="0" y="0" width="1600" height="900" />
+    <state width="407" height="569" key="GridCell.Tab.0.bottom" timestamp="1585168429263">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="918" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1584382622300" />
+    <state width="407" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585168429263" />
     <state width="877" height="748" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1584434690811" />
-    <state width="877" height="748" key="GridCell.Tab.0.center" timestamp="1584434690810">
-      <screen x="0" y="0" width="1600" height="900" />
+    <state width="407" height="569" key="GridCell.Tab.0.center" timestamp="1585168429263">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="918" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1584382622299" />
+    <state width="407" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1585168429263" />
     <state width="877" height="748" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="877" height="748" key="GridCell.Tab.0.left" timestamp="1584434690810">
-      <screen x="0" y="0" width="1600" height="900" />
+    <state width="407" height="569" key="GridCell.Tab.0.left" timestamp="1585168429263">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="918" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1584382622299" />
+    <state width="407" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1585168429263" />
     <state width="877" height="748" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="877" height="748" key="GridCell.Tab.0.right" timestamp="1584434690810">
-      <screen x="0" y="0" width="1600" height="900" />
+    <state width="407" height="569" key="GridCell.Tab.0.right" timestamp="1585168429263">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="918" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1584382622299" />
+    <state width="407" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1585168429263" />
     <state width="877" height="748" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
     <state width="1237" height="210" key="GridCell.Tab.1.bottom" timestamp="1584118614552">
       <screen x="0" y="0" width="1280" height="720" />
@@ -768,11 +800,11 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="478" y="58" key="RollbackChangesDialog/0.0.1280.690@0.0.1280.690" timestamp="1579882907163" />
-    <state x="398" y="80" key="SettingsEditor" timestamp="1584432886711">
-      <screen x="0" y="0" width="1600" height="900" />
+    <state x="217" y="0" key="SettingsEditor" timestamp="1585176928097">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="251" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1579885015085" />
-    <state x="301" y="7" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1584376660338" />
+    <state x="217" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1585176928097" />
     <state x="398" y="80" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1584432886711" />
     <state x="478" y="278" key="VCS.ChangelistChooser" timestamp="1580146787335">
       <screen x="0" y="0" width="1280" height="720" />
@@ -783,10 +815,10 @@
     </state>
     <state x="234" y="95" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1584392720145" />
     <state x="293" y="119" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1584442088400" />
-    <state x="397" y="207" key="cloudConfig.PluginsDialog" timestamp="1580941368996">
+    <state x="397" y="207" key="cloudConfig.PluginsDialog" timestamp="1585168180146">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="397" y="207" key="cloudConfig.PluginsDialog/0.0.1280.720@0.0.1280.720" timestamp="1580941368996" />
+    <state x="397" y="207" key="cloudConfig.PluginsDialog/0.0.1280.720@0.0.1280.720" timestamp="1585168180146" />
     <state x="397" y="207" key="cloudConfig.SelfSettingsDialog" timestamp="1581867435504">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -795,9 +827,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="711" y="332" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog/0.0.1600.900@0.0.1600.900" timestamp="1582189724344" />
-    <state x="507" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1581316263995">
-      <screen x="0" y="0" width="1600" height="900" />
+    <state x="406" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1585163410744">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state x="406" y="222" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1585163410744" />
     <state x="507" y="277" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1581316263995" />
     <state x="451" y="264" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579882792571">
       <screen x="0" y="0" width="1280" height="690" />
@@ -827,57 +860,61 @@
     <state x="522" y="361" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1600.900@0.0.1600.900" timestamp="1582538738713" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/02_OsamaPython$osamasendemail.coverage" NAME="osamasendemail Coverage Results" MODIFIED="1584361411775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$fprojecttest26_2__1_.coverage" NAME="Milestone Project 26-2-2020 Coverage Results" MODIFIED="1582719265685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$osamamodules__1_.coverage" NAME="osamamodules (1) Coverage Results" MODIFIED="1582054598361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Milestone2__1_.coverage" NAME="Milestone2 (1) Coverage Results" MODIFIED="1582575127253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$ggggg__1_.coverage" NAME="ggggg (1) Coverage Results" MODIFIED="1582576755958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Twilio_test.coverage" NAME="Twilio test Coverage Results" MODIFIED="1584118541378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Test_For_Time_Table.coverage" NAME="Test For Time Table Coverage Results" MODIFIED="1581316950425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Education_fees.coverage" NAME="Education fees Coverage Results" MODIFIED="1581588986143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Send_Email.coverage" NAME="Send Email Coverage Results" MODIFIED="1584082538080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Project_Euler_Solutions.coverage" NAME="Project Euler Solutions Coverage Results" MODIFIED="1583768587084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Nody.coverage" NAME="Nody Coverage Results" MODIFIED="1580054557027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$guarantee_a_fixed_monthly_and_annual_income__1_.coverage" NAME="guarantee a fixed monthly and annual income (1) Coverage Results" MODIFIED="1582205222802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$ggggg.coverage" NAME="milestonproject1 Coverage Results" MODIFIED="1582577474454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$ffffffff.coverage" NAME="ffffffff Coverage Results" MODIFIED="1583735498953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$fprojecttest25_2.coverage" NAME="fprojecttest25-2 Coverage Results" MODIFIED="1582649593005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Time_Table_10_2_2020__1_.coverage" NAME="Time Table 10-2-2020 (1) Coverage Results" MODIFIED="1581406547951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Osama$New_Test.coverage" NAME="New Test Coverage Results" MODIFIED="1579888361701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$milestonproject1__1_.coverage" NAME="milestonproject1 (1) Coverage Results" MODIFIED="1582640870451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Exercies22.coverage" NAME="Exercies22 Coverage Results" MODIFIED="1582190910786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$dddddd.coverage" NAME="dddddd Coverage Results" MODIFIED="1580975253870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$osamasendemail.coverage" NAME="osamasendemail Coverage Results" MODIFIED="1584374627244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Osama$Mosh_Summary.coverage" NAME="Mosh Summary Coverage Results" MODIFIED="1579883265898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$test.coverage" NAME="test Coverage Results" MODIFIED="1582135697460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Milestone2.coverage" NAME="Milestone2 Coverage Results" MODIFIED="1582576343295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/00_New_Osama_Python_master$Make_yagamil_Like_app_16_3_2020.coverage" NAME="Make yagamil Like app 16-3-2020 Coverage Results" MODIFIED="1584432889064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Milestone_Project_1.coverage" NAME="Milestone Project 1 Coverage Results" MODIFIED="1582574693538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$test55555.coverage" NAME="test55555 Coverage Results" MODIFIED="1582719059504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Exercies.coverage" NAME="Exercies Coverage Results" MODIFIED="1582142529640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$hackerrank_com.coverage" NAME="hackerrank.com Coverage Results" MODIFIED="1583856766441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Make_yagamil_ass_app_16_3_2020.coverage" NAME="Make yagamil ass app 16-3-2020 Coverage Results" MODIFIED="1584381541615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$New_Time_table.coverage" NAME="New Time table Coverage Results" MODIFIED="1580984438575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$yagmail.coverage" NAME="yagmail Coverage Results" MODIFIED="1584307504099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Summery_Python__1_.coverage" NAME="Summery Python (1) Coverage Results" MODIFIED="1582566541234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Time_Table_10_2_2020.coverage" NAME="Time Table 10-2-2020 Coverage Results" MODIFIED="1581329768925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/00_New_Osama_Python_master$Osama_Study.coverage" NAME="Osama Study Coverage Results" MODIFIED="1584433035232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
-    <SUITE FILE_PATH="coverage/Osama$New_Time_table.coverage" NAME="New Time table Coverage Results" MODIFIED="1579858004567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Time_Tables_7_1_2020.coverage" NAME="Time Tables 7-1-2020 Coverage Results" MODIFIED="1581329890988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Milestone_Project_2___Blackjack_Game.coverage" NAME="Milestone Project 2 - Blackjack Game Coverage Results" MODIFIED="1583772290965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Exercies22__1_.coverage" NAME="guarantee a fixed monthly and annual income Coverage Results" MODIFIED="1582197682222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$milestonproject1.coverage" NAME="milestonproject1 Coverage Results" MODIFIED="1582640733005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Times_Table_2.coverage" NAME="Times Table 2 Coverage Results" MODIFIED="1581330072835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$PythonExercies.coverage" NAME="PythonExercies Coverage Results" MODIFIED="1584292045118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$New_Milestone_Project_26_2_2020.coverage" NAME="New Milestone Project 26-2-2020 Coverage Results" MODIFIED="1582786250759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$test4444.coverage" NAME="test4444 Coverage Results" MODIFIED="1584133078640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/02_OsamaPython$Test_For_file.coverage" NAME="Test For file Coverage Results" MODIFIED="1584355841058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Osama$OsamaNotes22_1_2020.coverage" NAME="OsamaNotes22-1-2020 Coverage Results" MODIFIED="1579869916540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Work_With_Excel.coverage" NAME="Work With Excel Coverage Results" MODIFIED="1582539452190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$OsamaTest__1_.coverage" NAME="OsamaTest (1) Coverage Results" MODIFIED="1580829848561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$New_Test.coverage" NAME="Python Test Coverage Results" MODIFIED="1580055106734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$New_Send_Email.coverage" NAME="New Send Email Coverage Results" MODIFIED="1584133353004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Osama_Modules.coverage" NAME="Osama_Modules Coverage Results" MODIFIED="1582788409227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/00_New_Osama_Python$whatsapp.coverage" NAME="whatsapp Coverage Results" MODIFIED="1584611748031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
+    <SUITE FILE_PATH="coverage/OsamaPython$ggggg.coverage" NAME="milestonproject1 Coverage Results" MODIFIED="1582577474454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Times_Table_2.coverage" NAME="Times Table 2 Coverage Results" MODIFIED="1581330072835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$osamamodules__1_.coverage" NAME="osamamodules (1) Coverage Results" MODIFIED="1582054598361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Education_fees.coverage" NAME="Education fees Coverage Results" MODIFIED="1581588986143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$osamasendemail.coverage" NAME="osamasendemail Coverage Results" MODIFIED="1584374627244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Milestone2.coverage" NAME="Milestone2 Coverage Results" MODIFIED="1582576343295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$milestonproject1__1_.coverage" NAME="milestonproject1 (1) Coverage Results" MODIFIED="1582640870451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Milestone2__1_.coverage" NAME="Milestone2 (1) Coverage Results" MODIFIED="1582575127253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$New_Time_table.coverage" NAME="New Time table Coverage Results" MODIFIED="1580984438575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/00_New_Osama_Python_master$Osama_Study.coverage" NAME="Osama Study Coverage Results" MODIFIED="1584433035232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Twilio_test.coverage" NAME="Twilio test Coverage Results" MODIFIED="1584118541378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$test33.coverage" NAME="test33 Coverage Results" MODIFIED="1584312687849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$ffffffff.coverage" NAME="ffffffff Coverage Results" MODIFIED="1583735498953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Test_For_Time_Table.coverage" NAME="Test For Time Table Coverage Results" MODIFIED="1581316950425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Osama$New_Test.coverage" NAME="New Test Coverage Results" MODIFIED="1579888361701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$test55555.coverage" NAME="test55555 Coverage Results" MODIFIED="1582719059504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/00_New_Osama_Python$cookies.coverage" NAME="cookies Coverage Results" MODIFIED="1584897497489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/coursera-dl/coursera" />
+    <SUITE FILE_PATH="coverage/OsamaPython$guarantee_a_fixed_monthly_and_annual_income__1_.coverage" NAME="guarantee a fixed monthly and annual income (1) Coverage Results" MODIFIED="1582205222802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$yagmail.coverage" NAME="yagmail Coverage Results" MODIFIED="1584307504099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/00_New_Osama_Python$Osama_Study.coverage" NAME="Osama Study Coverage Results" MODIFIED="1585168273327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
+    <SUITE FILE_PATH="coverage/OsamaPython$hackerrank_com.coverage" NAME="hackerrank.com Coverage Results" MODIFIED="1583856766441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Time_Table_10_2_2020.coverage" NAME="Time Table 10-2-2020 Coverage Results" MODIFIED="1581329768925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$ggggg__1_.coverage" NAME="ggggg (1) Coverage Results" MODIFIED="1582576755958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$fprojecttest25_2.coverage" NAME="fprojecttest25-2 Coverage Results" MODIFIED="1582649593005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Send_Email.coverage" NAME="Send Email Coverage Results" MODIFIED="1584082538080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$New_Test.coverage" NAME="Python Test Coverage Results" MODIFIED="1580055106734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Exercies22__1_.coverage" NAME="guarantee a fixed monthly and annual income Coverage Results" MODIFIED="1582197682222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Time_Table_10_2_2020__1_.coverage" NAME="Time Table 10-2-2020 (1) Coverage Results" MODIFIED="1581406547951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_OsamaPython$osamasendemail.coverage" NAME="osamasendemail Coverage Results" MODIFIED="1584361411775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Summery_Python__1_.coverage" NAME="Summery Python (1) Coverage Results" MODIFIED="1582566541234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Osama$New_Time_table.coverage" NAME="New Time table Coverage Results" MODIFIED="1579858004567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Milestone_Project_2___Blackjack_Game.coverage" NAME="Milestone Project 2 - Blackjack Game Coverage Results" MODIFIED="1583772290965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$milestonproject1.coverage" NAME="milestonproject1 Coverage Results" MODIFIED="1582640733005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Milestone_Project_1.coverage" NAME="Milestone Project 1 Coverage Results" MODIFIED="1582574693538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Exercies.coverage" NAME="Exercies Coverage Results" MODIFIED="1582142529640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$New_Send_Email.coverage" NAME="New Send Email Coverage Results" MODIFIED="1584133353004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$dddddd.coverage" NAME="dddddd Coverage Results" MODIFIED="1580975253870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_OsamaPython$Test_For_file.coverage" NAME="Test For file Coverage Results" MODIFIED="1584355841058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$test.coverage" NAME="test Coverage Results" MODIFIED="1582135697460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Project_Euler_Solutions.coverage" NAME="Project Euler Solutions Coverage Results" MODIFIED="1583768587084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$fprojecttest26_2__1_.coverage" NAME="Milestone Project 26-2-2020 Coverage Results" MODIFIED="1582719265685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$test4444.coverage" NAME="test4444 Coverage Results" MODIFIED="1584133078640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$OsamaTest__1_.coverage" NAME="OsamaTest (1) Coverage Results" MODIFIED="1580829848561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Make_yagamil_ass_app_16_3_2020.coverage" NAME="Make yagamil ass app 16-3-2020 Coverage Results" MODIFIED="1584381541615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$PythonExercies.coverage" NAME="PythonExercies Coverage Results" MODIFIED="1584292045118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Nody.coverage" NAME="Nody Coverage Results" MODIFIED="1580054557027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Exercies22.coverage" NAME="Exercies22 Coverage Results" MODIFIED="1582190910786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/00_New_Osama_Python_master$Make_yagamil_Like_app_16_3_2020.coverage" NAME="Make yagamil Like app 16-3-2020 Coverage Results" MODIFIED="1584432889064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$New_Milestone_Project_26_2_2020.coverage" NAME="New Milestone Project 26-2-2020 Coverage Results" MODIFIED="1582786250759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Osama$OsamaNotes22_1_2020.coverage" NAME="OsamaNotes22-1-2020 Coverage Results" MODIFIED="1579869916540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/New_Osama_Python$Osama_Study.coverage" NAME="Osama Study Coverage Results" MODIFIED="1584456357978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Work_With_Excel.coverage" NAME="Work With Excel Coverage Results" MODIFIED="1582539452190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Time_Tables_7_1_2020.coverage" NAME="Time Tables 7-1-2020 Coverage Results" MODIFIED="1581329890988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Osama$Mosh_Summary.coverage" NAME="Mosh Summary Coverage Results" MODIFIED="1579883265898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
