@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7b16591-7e2e-4f75-af43-b38562b35faa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/For Study/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For Study/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For Study/whatsapp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Osama.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Osama.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/For Study/Osama Study.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/For Study/Osama Study.py" beforeDir="false" afterPath="$PROJECT_DIR$/For Study/Osama Study.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +56,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -403,7 +396,7 @@
       <workItem from="1585165792815" duration="1147000" />
       <workItem from="1585166965938" duration="1266000" />
       <workItem from="1585168458350" duration="904000" />
-      <workItem from="1585176194391" duration="550000" />
+      <workItem from="1585176194391" duration="971000" />
     </task>
     <task id="LOCAL-00001" summary="25-1">
       <created>1579882951755</created>
@@ -622,7 +615,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584444200455</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="First 25-3-2020">
+      <created>1585176972957</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1585176972957</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -653,7 +653,8 @@
     <MESSAGE value="update 15-3-2020" />
     <MESSAGE value="update 16-3-2020" />
     <MESSAGE value="First 17-3-2020" />
-    <option name="LAST_COMMIT_MESSAGE" value="First 17-3-2020" />
+    <MESSAGE value="First 25-3-2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="First 25-3-2020" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="108" key="#Code_Folding" timestamp="1582719169392">
@@ -718,11 +719,11 @@
     </state>
     <state x="511" y="188" width="459" height="482" key="#com.intellij.tools.ToolEditorDialog/0.0.1280.720@0.0.1280.720" timestamp="1580832073705" />
     <state x="639" y="235" key="#com.intellij.tools.ToolEditorDialog/0.0.1600.900@0.0.1600.900" timestamp="1580982590121" />
-    <state x="331" y="0" key="CommitChangelistDialog2" timestamp="1584444195983">
-      <screen x="0" y="0" width="1600" height="900" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1585176970737">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.690@0.0.1280.690" timestamp="1579885656796" />
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1584392712809" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1585176970737" />
     <state x="331" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1584444195983" />
     <state x="94" y="94" width="1093" height="502" maximized="true" key="DiffContextDialog" timestamp="1580055183036">
       <screen x="0" y="0" width="1280" height="720" />
@@ -800,20 +801,20 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="478" y="58" key="RollbackChangesDialog/0.0.1280.690@0.0.1280.690" timestamp="1579882907163" />
-    <state x="217" y="0" key="SettingsEditor" timestamp="1585176928097">
+    <state x="217" y="0" key="SettingsEditor" timestamp="1585177168034">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="251" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1579885015085" />
-    <state x="217" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1585176928097" />
+    <state x="217" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1585177168034" />
     <state x="398" y="80" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1584432886711" />
     <state x="478" y="278" key="VCS.ChangelistChooser" timestamp="1580146787335">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="478" y="278" key="VCS.ChangelistChooser/0.0.1280.720@0.0.1280.720" timestamp="1580146787335" />
-    <state x="293" y="119" key="Vcs.Push.Dialog.v2" timestamp="1584442088400">
-      <screen x="0" y="0" width="1600" height="900" />
+    <state x="234" y="95" key="Vcs.Push.Dialog.v2" timestamp="1585177173423">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="234" y="95" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1584392720145" />
+    <state x="234" y="95" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1585177173423" />
     <state x="293" y="119" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1584442088400" />
     <state x="397" y="207" key="cloudConfig.PluginsDialog" timestamp="1585168180146">
       <screen x="0" y="0" width="1280" height="720" />
