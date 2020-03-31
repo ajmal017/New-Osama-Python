@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbd4fe02-a52e-4955-b8ef-9c1e15f80ed8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="e2db06bd-3b34-4d6e-9a7f-13fc88995bfe" />
+  <component name="ProjectId" id="1ZraRtIgE3g0N5zKqxfTLZZJjgw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../00-New-Osama-Python" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Python.SuperTrand">
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stock Market" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Calculates Exponential Moving Average" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stock Market" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculates Exponential Moving Average.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SuperTrand" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stock Market" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Technical-Indicators-master/indicator" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Technical-Indicators-master/indicator/SuperTrand.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Stock Market" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="indicators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stock Market" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Technical-Indicators-master/indicator" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Technical-Indicators-master/indicator/indicators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SuperTrand" />
+        <item itemvalue="Python.indicators" />
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.Calculates Exponential Moving Average" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbd4fe02-a52e-4955-b8ef-9c1e15f80ed8" name="Default Changelist" comment="" />
+      <created>1585599661985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585599661985</updated>
+      <workItem from="1585599669876" duration="1555000" />
+      <workItem from="1585601795380" duration="60000" />
+      <workItem from="1585601932970" duration="1621000" />
+      <workItem from="1585608531903" duration="900000" />
+      <workItem from="1585660410754" duration="2910000" />
+      <workItem from="1585663863035" duration="1396000" />
+      <workItem from="1585674355949" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="20" key="#Notifications" timestamp="1585663754196">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="234" y="20" key="#Notifications/0.0.1280.720@0.0.1280.720" timestamp="1585663754196" />
+    <state x="370" y="0" key="#SuperTrand" timestamp="1585663286333">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="370" y="0" key="#SuperTrand/0.0.1280.720@0.0.1280.720" timestamp="1585663286333" />
+    <state x="422" y="116" key="FileChooserDialogImpl" timestamp="1585674474152">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="422" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1585674474152" />
+    <state width="476" height="569" key="GridCell.Tab.0.bottom" timestamp="1585670743809">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="476" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585670743809" />
+    <state width="476" height="569" key="GridCell.Tab.0.center" timestamp="1585670743809">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="476" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1585670743809" />
+    <state width="476" height="569" key="GridCell.Tab.0.left" timestamp="1585670743809">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="476" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1585670743809" />
+    <state width="476" height="569" key="GridCell.Tab.0.right" timestamp="1585670743809">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="476" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1585670743809" />
+    <state x="150" y="3" key="SettingsEditor" timestamp="1585663825276">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="150" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1585663825276" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Stock_Market$SuperTrand.coverage" NAME="SuperTrand Coverage Results" MODIFIED="1585663997862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Technical-Indicators-master/indicator" />
+    <SUITE FILE_PATH="coverage/Stock_Market$2.coverage" NAME="2 Coverage Results" MODIFIED="1585661849706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
