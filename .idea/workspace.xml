@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7b16591-7e2e-4f75-af43-b38562b35faa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complete-Python-3-Bootcamp" beforeDir="false" />
-    </list>
+    <list default="true" id="e7b16591-7e2e-4f75-af43-b38562b35faa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -412,7 +409,7 @@
       <workItem from="1585601767047" duration="24000" />
       <workItem from="1585674478777" duration="5223000" />
       <workItem from="1585686074538" duration="2390000" />
-      <workItem from="1585689551015" duration="26000" />
+      <workItem from="1585689551015" duration="422000" />
     </task>
     <task id="LOCAL-00001" summary="25-1">
       <created>1579882951755</created>
@@ -680,7 +677,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585686893504</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Up 1-4-2020">
+      <created>1585689593916</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1585689593916</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -779,11 +783,11 @@
     </state>
     <state x="511" y="188" width="459" height="482" key="#com.intellij.tools.ToolEditorDialog/0.0.1280.720@0.0.1280.720" timestamp="1580832073705" />
     <state x="639" y="235" key="#com.intellij.tools.ToolEditorDialog/0.0.1600.900@0.0.1600.900" timestamp="1580982590121" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1585686891462">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1585689592092">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.690@0.0.1280.690" timestamp="1579885656796" />
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1585686891462" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1585689592092" />
     <state x="331" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1584444195983" />
     <state x="94" y="94" width="1093" height="502" maximized="true" key="DiffContextDialog" timestamp="1580055183036">
       <screen x="0" y="0" width="1280" height="720" />
@@ -871,10 +875,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="478" y="278" key="VCS.ChangelistChooser/0.0.1280.720@0.0.1280.720" timestamp="1580146787335" />
-    <state x="234" y="95" key="Vcs.Push.Dialog.v2" timestamp="1585686909986">
+    <state x="234" y="95" key="Vcs.Push.Dialog.v2" timestamp="1585689610994">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="234" y="95" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1585686909986" />
+    <state x="234" y="95" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1585689610994" />
     <state x="293" y="119" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1584442088400" />
     <state x="397" y="207" key="cloudConfig.PluginsDialog" timestamp="1585168180146">
       <screen x="0" y="0" width="1280" height="720" />
