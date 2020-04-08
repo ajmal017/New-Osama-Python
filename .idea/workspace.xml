@@ -2,153 +2,726 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7b16591-7e2e-4f75-af43-b38562b35faa" name="Default Changelist" comment="Up 1-4-2020">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Excel and Python-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Excel and Python.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For Study/Supertrand Osama.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Summary/.ipynb_checkpoints/numpy-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SampleWork.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/01-Python-Crash-Course/.ipynb_checkpoints/Python Crash Course Exercises - Solutions-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/01-Python-Crash-Course/.ipynb_checkpoints/Python Crash Course Exercises -checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/01-Python-Crash-Course/Python Crash Course Exercises - Solutions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/01-Python-Crash-Course/Python Crash Course Exercises .ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/01-Python-Crash-Course/Python Crash Course.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/.ipynb_checkpoints/1-NumPy-Arrays-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/.ipynb_checkpoints/2-Numpy-Indexing-and-Selection-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/.ipynb_checkpoints/3-Numpy-Operations-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/.ipynb_checkpoints/Numpy Exercise - Solutions-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/.ipynb_checkpoints/Numpy Exercises-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/1-NumPy-Arrays.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/2-Numpy-Indexing-and-Selection.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/3-Numpy-Operations.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/Numpy Exercise - Solutions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/Numpy Exercises.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/01-Introduction-to-Pandas-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/02-Series-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/03-DataFrames-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/04-Missing-Data-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/05-Groupby-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/06-Merging-Joining-and-Concatenating-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/07-Operations-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/08-Data-Input-and-Output-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/01-Introduction-to-Pandas.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/02-Series.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/03-DataFrames.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/04-Missing-Data.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/05-Groupby.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/06-Merging-Joining-and-Concatenating.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/07-Operations.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/08-Data-Input-and-Output.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/Excel_Sample.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/Pandas-Exercises/.ipynb_checkpoints/Pandas Exercise SOLUTIONS-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/Pandas-Exercises/.ipynb_checkpoints/Pandas Exercises-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/Pandas-Exercises/Pandas Exercise SOLUTIONS.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/Pandas-Exercises/Pandas Exercises.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/Pandas-Exercises/banklist.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/multi_index_example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/(Optional-No Video) - Advanced Matplotlib Concepts.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/.ipynb_checkpoints/(Optional-No Video) - Advanced Matplotlib Concepts-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/.ipynb_checkpoints/Matplotlib Concepts Lecture-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/.ipynb_checkpoints/Matplotlib Exercises - Solutions-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/.ipynb_checkpoints/Matplotlib Exercises -checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/Matplotlib Concepts Lecture.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/Matplotlib Exercises - Solutions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/Matplotlib Exercises .ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/filename.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/.ipynb_checkpoints/Pandas Built-in Data Visualization-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/.ipynb_checkpoints/Pandas Data Visualization Exercise - Solutions-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/.ipynb_checkpoints/Pandas Data Visualization Exercise -checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/.ipynb_checkpoints/Visualizing Time Series Data-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/Pandas Built-in Data Visualization.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/Pandas Data Visualization Exercise - Solutions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/Pandas Data Visualization Exercise .ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/Visualizing Time Series Data.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/df1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/df2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/df3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/mcdonalds.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/.ipynb_checkpoints/Datetime Index-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/.ipynb_checkpoints/Rolling and Expanding-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/.ipynb_checkpoints/Time Resampling-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/.ipynb_checkpoints/Time Shifting-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/Datetime Index.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/Rolling and Expanding.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/Time Resampling.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/Time Shifting.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/time_data/walmart_stock.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/06-Data-Sources/.ipynb_checkpoints/1-Pandas-Datareader-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/06-Data-Sources/.ipynb_checkpoints/2-Quandl-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/06-Data-Sources/1-Pandas-Datareader.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/06-Data-Sources/2-Quandl.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/.ipynb_checkpoints/Stock Market Analysis Project SOLUTIONS-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/.ipynb_checkpoints/Stock Market Analysis Project-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/Ford_Stock.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/GM_Stock.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/Stock Market Analysis Project SOLUTIONS.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/Stock Market Analysis Project.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/Tesla_Stock.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/.ipynb_checkpoints/1-Introduction-to-Statsmodels-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/.ipynb_checkpoints/2-EWMA-Exponentially-weighted-moving-average-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/.ipynb_checkpoints/3-ETS-Decomposition-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/.ipynb_checkpoints/4-ARIMA-and-Seasonal-ARIMA-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/1-Introduction-to-Statsmodels.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/2-EWMA-Exponentially-weighted-moving-average.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/3-ETS-Decomposition.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/4-ARIMA-and-Seasonal-ARIMA.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/airline_passengers.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/monthly-milk-production-pounds-p.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/.ipynb_checkpoints/01-Portfolio-Allocation-and-Sharpe-Ratio-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/.ipynb_checkpoints/02-Portfolio-Optimization-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/.ipynb_checkpoints/03-CAPM-Capital-Asset-Pricing-Model-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/01-Portfolio-Allocation-and-Sharpe-Ratio.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/02-Portfolio-Optimization.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/03-CAPM-Capital-Asset-Pricing-Model.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/AAPL_CLOSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/AMZN_CLOSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/CISCO_CLOSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/GOOG_CLOSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/IBM_CLOSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/walmart_stock.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/.ipynb_checkpoints/02-Basic-Algorithm-Methods-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/.ipynb_checkpoints/03-First-Trading-Algorithm-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/.ipynb_checkpoints/04-Trading-Algorithm-Exercise-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/.ipynb_checkpoints/05-Trading-Algorithm-Exercise-Solutions-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/.ipynb_checkpoints/06-Pipelines-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/01-Quantopian-Research-Basics.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/02-Basic-Algorithm-Methods.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/03-First-Trading-Algorithm.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/04-Trading-Algorithm-Exercise.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/05-Trading-Algorithm-Exercise-Solutions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/06-Pipelines.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/00-Pipeline-Example-Walkthrough-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/00-Pipeline-Example-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/01-Leverage-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/03-Portfolio-Analysis-with-Pyfolio-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/04-Stock-Sentiment-Analysis-Project-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/05-Futures-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/06-Trading-Futures-Example-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/00-Pipeline-Example-Walkthrough.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/01-Leverage.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/02-Hedging.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/03-Portfolio-Analysis-with-Pyfolio.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/04-Stock-Sentiment-Analysis-Project.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/05-Futures.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/Pierian_Data_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/environment.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/maclinuxenvironment.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/SuperTrend Osama 5-4-2020.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Market/Test Cal SuperTrend 5-4-2020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Supertrandtest.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Osama.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Osama.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/.ipynb_checkpoints/Untitled2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/.ipynb_checkpoints/Untitled3-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/Indicato Calculation/.ipynb_checkpoints/Parabolic sar 1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/Indicato Calculation/Parabolic sar 1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/Indicato Calculation/Parabolic sar 2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/Indicato Calculation/pARABOLIC saR diSCTION.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/Untitled1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/Untitled2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/Untitled3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/.github/FUNDING.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/README.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/annualreturn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/calmar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/drawdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/leverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/logreturnsrolling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/periodstats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/positions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/pyfolio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/returns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/sharpe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/sqn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/timereturn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/tradeanalyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/transactions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/analyzers/vwr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/broker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/brokers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/brokers/bbroker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/brokers/ibbroker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/brokers/oandabroker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/brokers/vcbroker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/btrun/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/btrun/btrun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/cerebro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/comminfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/commissions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/dataseries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/blaze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/btcsv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/chainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/csvgeneric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/ibdata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/influxfeed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/mt4csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/oanda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/pandafeed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/quandl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/rollover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/sierrachart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/vcdata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/vchart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/vchartcsv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/vchartfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/feeds/yahoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/fillers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/filters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/filters/bsplitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/filters/calendardays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/filters/datafiller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/filters/datafilter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/filters/daysteps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/filters/heikinashi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/filters/renko.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/filters/session.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/flt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/accdecoscillator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/aroon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/atr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/awesomeoscillator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/basicops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/bollinger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/cci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/contrib/vortex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/crossover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/dema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/deviation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/directionalmove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/dma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/dpo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/dv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/ema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/envelope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/hadelta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/heikinashi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/hma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/hurst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/ichimoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/kama.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/kst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/lrsi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/mabase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/macd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/momentum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/ols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/oscillator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/percentchange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/percentrank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/pivotpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/prettygoodoscillator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/priceoscillator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/psar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/rmi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/rsi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/sma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/smma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/stochastic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/trix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/tsi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/ultimateoscillator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/vortex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/williams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/wma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/zlema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/indicators/zlind.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/linebuffer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/lineiterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/lineroot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/lineseries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/mathsupport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/metabase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/observer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/observers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/observers/benchmark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/observers/broker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/observers/buysell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/observers/drawdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/observers/logreturns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/observers/timereturn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/observers/trades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/plot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/plot/finance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/plot/formatters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/plot/locator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/plot/multicursor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/plot/plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/plot/scheme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/plot/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/resamplerfilter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/signal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/signals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/sizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/sizers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/sizers/fixedsize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/sizers/percents_sizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/stores/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/stores/ibstore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/stores/oandastore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/stores/vchartfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/stores/vcstore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/strategies/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/strategies/sma_crossover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/strategy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/studies/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/studies/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/studies/contrib/fractal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/talib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/timer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/trade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/tradingcal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/utils/autodict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/utils/date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/utils/dateintern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/utils/flushfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/utils/ordereddefaultdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/utils/py3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/backtrader/writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/changelog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/contrib/datas/daily-KO.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/contrib/datas/daily-PEP.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/contrib/samples/pair-trading/pair-trading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/contrib/utils/influxdb-import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/contrib/utils/iqfeed-to-influxdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/2005-2006-day-001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/2006-01-02-volume-min-001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/2006-day-001-optix.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/2006-day-001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/2006-day-002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/2006-min-005.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/2006-month-001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/2006-volume-day-001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/2006-week-001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/2006-week-002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/bidask.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/bidask2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/nvda-1999-2014.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/nvda-2014.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/orcl-1995-2014.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/orcl-2003-2005.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/orcl-2014.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/ticksample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/yhoo-1996-2014.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/yhoo-1996-2015.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/yhoo-2003-2005.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/datas/yhoo-2014.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/pypi.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/analyzer-annualreturn/analyzer-annualreturn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/bidask-to-ohlc/bidask-to-ohlc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/bracket/bracket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/btfd/btfd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/calendar-days/calendar-days.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/calmar/calmar-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/cheat-on-open/cheat-on-open.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/commission-schemes/commission-schemes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/credit-interest/credit-interest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/data-bid-ask/bidask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/data-filler/data-filler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/data-filler/relativevolume.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/data-multitimeframe/data-multitimeframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/data-pandas/data-pandas-optix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/data-pandas/data-pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/data-replay/data-replay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/data-resample/data-resample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/daysteps/daysteps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/future-spot/future-spot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/gold-vs-sp500/gold-vs-sp500.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/ibtest/ibtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/kselrsi/ksignal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/lineplotter/lineplotter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/lrsi/lrsi-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/macd-settings/macd-settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/memory-savings/memory-savings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/mixing-timeframes/mixing-timeframes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/multi-copy/multi-copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/multi-example/mult-values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/multidata-strategy/multidata-strategy-unaligned.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/multidata-strategy/multidata-strategy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/multitrades/mtradeobserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/multitrades/multitrades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/oandatest/oandatest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/observer-benchmark/observer-benchmark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/observers/observers-default-drawdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/observers/observers-default.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/observers/observers-orderobserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/observers/orderobserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/oco/oco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/optimization/optimization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/order-close/close-daily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/order-close/close-minute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/order-execution/order-execution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/order-history/order-history.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/order_target/order_target.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/partial-plot/partial-plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/pinkfish-challenge/pinkfish-challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/pivot-point/pivotpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/pivot-point/ppsample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/plot-same-axis/plot-same-axis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/psar/psar-intraday.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/psar/psar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/pyfolio2/backtrader-pyfolio.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/pyfolio2/pyfoliotest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/pyfoliotest/backtrader-pyfolio.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/pyfoliotest/pyfoliotest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/relative-volume/relative-volume.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/relative-volume/relvolbybar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/renko/renko.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/resample-tickdata/resample-tickdata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/rollover/rollover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/sharpe-timereturn/sharpe-timereturn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/signals-strategy/signals-strategy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/sigsmacross/sigsmacross.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/sigsmacross/sigsmacross2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/sizertest/sizertest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/slippage/slippage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/sratio/sratio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/stop-trading/stop-loss-approaches.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/stoptrail/trail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/strategy-selection/strategy-selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/talib/talibtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/timers/scheduled-min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/timers/scheduled.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/tradingcalendar/tcal-intra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/tradingcalendar/tcal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/vctest/vctest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/volumefilling/volumefilling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/vwr/vwr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/weekdays-filler/weekdaysaligner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/weekdays-filler/weekdaysfiller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/writer-test/writer-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/samples/yahoo-test/yahoo-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_analyzer-sqn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_analyzer-timereturn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_comminfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_data_multiframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_data_replay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_data_resample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_accdecosc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_aroonoscillator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_aroonupdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_atr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_awesomeoscillator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_bbands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_cci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_dema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_demaenvelope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_demaosc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_dm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_dma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_downmove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_dpo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_dv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_ema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_emaenvelope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_emaosc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_envelope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_heikinashi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_highest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_hma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_ichimoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_kama.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_kamaenvelope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_kamaosc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_kst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_lowest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_lrsi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_macdhisto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_minperiod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_momentum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_momentumoscillator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_oscillator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_pctchange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_pctrank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_pgo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_ppo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_pposhort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_priceosc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_rmi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_roc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_rsi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_rsi_safe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_sma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_smaenvelope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_smaosc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_smma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_smmaenvelope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_smmaosc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_stochastic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_stochasticfull.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_sumn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_tema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_temaenvelope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_temaosc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_trix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_tsi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_ultosc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_upmove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_vortex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_williamsad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_williamsr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_wma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_wmaenvelope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_wmaosc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_zlema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_ind_zlind.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_strategy_optimized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_strategy_unoptimized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_study_fractal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_trade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/test_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tests/testcommon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tools/bt-run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tools/rewrite-data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/backtrader-master/tools/yahoodownload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/py Files for calculate indicator 7-4-2020/.ipynb_checkpoints/Osama all Indicator NO1 Very important-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/py Files for calculate indicator 7-4-2020/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/py Files for calculate indicator 7-4-2020/Osama all Indicator NO1 Very important.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/py Files for calculate indicator 7-4-2020/Osama all indicators 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/py Files for calculate indicator 7-4-2020/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/.coveragerc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/.github/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/.github/ISSUE_TEMPLATE/question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/AUTHORS.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/CHANGELOG.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/asset/chart-example.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/docs/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/docs/_static/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/docs/authors.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/docs/changelog.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/docs/conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/docs/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/docs/license.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/setup.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/src/twelvedata/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/src/twelvedata/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/src/twelvedata/context.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/src/twelvedata/endpoints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/src/twelvedata/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/src/twelvedata/http_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/src/twelvedata/mixins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/src/twelvedata/renders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/src/twelvedata/time_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/src/twelvedata/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00Stock Market/twelvedata-python-master/tests/test_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TA-LIB TEST.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/For Study/Osama Study.py" beforeDir="false" afterPath="$PROJECT_DIR$/For Study/Osama Study.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Summary/pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python Summary/pandas.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stock Market/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Stock Market/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stock Market/Technical-Indicators-master/indicator/SuperTrand.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stock Market/Technical-Indicators-master/indicator/indicators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stock Market/Technical-Indicators-master/indicator/indicators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/.idea/Stock Market.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/.idea/dictionaries/osama.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Indicato Calculation/.ipynb_checkpoints/SuperTrend Calculation Osama 6-4-2020-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Indicato Calculation/.ipynb_checkpoints/TEST INDICATOROsama 6-4-2020 (1)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Indicato Calculation/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Indicato Calculation/Calculate Indicator For Group files.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Indicato Calculation/Calculate Indicator For Group files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Indicato Calculation/TEST INDICATOROsama 6-4-2020 (1).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Indicato Calculation/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Osama indicator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/01-Python-Crash-Course/.ipynb_checkpoints/Python Crash Course Exercises - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/01-Python-Crash-Course/.ipynb_checkpoints/Python Crash Course Exercises -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/01-Python-Crash-Course/Python Crash Course Exercises - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/01-Python-Crash-Course/Python Crash Course Exercises .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/01-Python-Crash-Course/Python Crash Course.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/.ipynb_checkpoints/1-NumPy-Arrays-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/.ipynb_checkpoints/2-Numpy-Indexing-and-Selection-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/.ipynb_checkpoints/3-Numpy-Operations-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/.ipynb_checkpoints/Numpy Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/.ipynb_checkpoints/Numpy Exercises-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/1-NumPy-Arrays.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/2-Numpy-Indexing-and-Selection.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/3-Numpy-Operations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/Numpy Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/02-NumPy/Numpy Exercises.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/01-Introduction-to-Pandas-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/02-Series-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/03-DataFrames-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/04-Missing-Data-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/05-Groupby-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/06-Merging-Joining-and-Concatenating-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/07-Operations-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/.ipynb_checkpoints/08-Data-Input-and-Output-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/01-Introduction-to-Pandas.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/02-Series.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/03-DataFrames.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/04-Missing-Data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/05-Groupby.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/06-Merging-Joining-and-Concatenating.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/07-Operations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/08-Data-Input-and-Output.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/Excel_Sample.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/Pandas-Exercises/.ipynb_checkpoints/Pandas Exercise SOLUTIONS-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/Pandas-Exercises/.ipynb_checkpoints/Pandas Exercises-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/Pandas-Exercises/Pandas Exercise SOLUTIONS.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/Pandas-Exercises/Pandas Exercises.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/Pandas-Exercises/banklist.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/03- General Pandas/multi_index_example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/(Optional-No Video) - Advanced Matplotlib Concepts.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/.ipynb_checkpoints/(Optional-No Video) - Advanced Matplotlib Concepts-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/.ipynb_checkpoints/Matplotlib Concepts Lecture-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/.ipynb_checkpoints/Matplotlib Exercises - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/.ipynb_checkpoints/Matplotlib Exercises -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/Matplotlib Concepts Lecture.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/Matplotlib Exercises - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/Matplotlib Exercises .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/filename.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/.ipynb_checkpoints/Pandas Built-in Data Visualization-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/.ipynb_checkpoints/Pandas Data Visualization Exercise - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/.ipynb_checkpoints/Pandas Data Visualization Exercise -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/.ipynb_checkpoints/Visualizing Time Series Data-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/Pandas Built-in Data Visualization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/Pandas Data Visualization Exercise - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/Pandas Data Visualization Exercise .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/Visualizing Time Series Data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/df1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/df2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/df3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/04-Visualization-Matplotlib-Pandas/04-02-Pandas Visualization/mcdonalds.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/.ipynb_checkpoints/Datetime Index-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/.ipynb_checkpoints/Rolling and Expanding-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/.ipynb_checkpoints/Time Resampling-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/.ipynb_checkpoints/Time Shifting-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/Datetime Index.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/Rolling and Expanding.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/Time Resampling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/Time Shifting.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/05-Pandas-with-Time-Series/time_data/walmart_stock.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/06-Data-Sources/.ipynb_checkpoints/1-Pandas-Datareader-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/06-Data-Sources/.ipynb_checkpoints/2-Quandl-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/06-Data-Sources/1-Pandas-Datareader.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/06-Data-Sources/2-Quandl.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/.ipynb_checkpoints/Stock Market Analysis Project SOLUTIONS-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/.ipynb_checkpoints/Stock Market Analysis Project-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/Ford_Stock.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/GM_Stock.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/Stock Market Analysis Project SOLUTIONS.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/Stock Market Analysis Project.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/07-Stock-Market-Analysis-Capstone-Project/Tesla_Stock.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/.ipynb_checkpoints/1-Introduction-to-Statsmodels-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/.ipynb_checkpoints/2-EWMA-Exponentially-weighted-moving-average-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/.ipynb_checkpoints/3-ETS-Decomposition-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/.ipynb_checkpoints/4-ARIMA-and-Seasonal-ARIMA-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/1-Introduction-to-Statsmodels.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/2-EWMA-Exponentially-weighted-moving-average.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/3-ETS-Decomposition.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/4-ARIMA-and-Seasonal-ARIMA.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/airline_passengers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/08-Time-Series-Analysis/monthly-milk-production-pounds-p.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/.ipynb_checkpoints/01-Portfolio-Allocation-and-Sharpe-Ratio-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/.ipynb_checkpoints/02-Portfolio-Optimization-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/.ipynb_checkpoints/03-CAPM-Capital-Asset-Pricing-Model-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/01-Portfolio-Allocation-and-Sharpe-Ratio.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/02-Portfolio-Optimization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/03-CAPM-Capital-Asset-Pricing-Model.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/AAPL_CLOSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/AMZN_CLOSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/CISCO_CLOSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/GOOG_CLOSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/IBM_CLOSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/09-Python-Finance-Fundamentals/walmart_stock.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/.ipynb_checkpoints/02-Basic-Algorithm-Methods-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/.ipynb_checkpoints/03-First-Trading-Algorithm-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/.ipynb_checkpoints/04-Trading-Algorithm-Exercise-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/.ipynb_checkpoints/05-Trading-Algorithm-Exercise-Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/.ipynb_checkpoints/06-Pipelines-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/01-Quantopian-Research-Basics.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/02-Basic-Algorithm-Methods.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/03-First-Trading-Algorithm.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/04-Trading-Algorithm-Exercise.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/05-Trading-Algorithm-Exercise-Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/10-Quantopian-Platform/06-Pipelines.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/00-Pipeline-Example-Walkthrough-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/00-Pipeline-Example-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/01-Leverage-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/03-Portfolio-Analysis-with-Pyfolio-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/04-Stock-Sentiment-Analysis-Project-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/05-Futures-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/.ipynb_checkpoints/06-Trading-Futures-Example-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/00-Pipeline-Example-Walkthrough.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/01-Leverage.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/02-Hedging.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/03-Portfolio-Analysis-with-Pyfolio.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/04-Stock-Sentiment-Analysis-Project.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/11-Advanced-Quantopian-Topics/05-Futures.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/Pierian_Data_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/environment.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Python-for-Finance-Repo-master/maclinuxenvironment.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/data/SPY_D.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/data/sample.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/docs/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/docs/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/docs/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/docs/make.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/examples/example.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/images/SPY_ADX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/images/SPY_ATR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/images/SPY_CumulativePercentReturn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/images/SPY_MACD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/images/SPY_OBV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/images/SPY_ZScore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/images/TA_Chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/ao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/apo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/bop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/cci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/cg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/cmo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/coppock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/fisher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/kst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/macd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/mom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/ppo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/roc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/rsi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/rvi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/slope.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/stoch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/trix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/tsi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/uo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/momentum/willr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/dema.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/ema.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/fwma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/hl2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/hlc3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/hma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/ichimoku.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/kama.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/linreg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/midpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/midprice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/ohlc4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/pwma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/rma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/sinwma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/sma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/swma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/t3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/tema.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/trima.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/vwap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/vwma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/wma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/overlap/zlma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/performance/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/performance/log_return.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/performance/percent_return.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/performance/trend_return.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/statistics/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/statistics/kurtosis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/statistics/mad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/statistics/median.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/statistics/quantile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/statistics/skew.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/statistics/stdev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/statistics/variance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/statistics/zscore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/trend/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/trend/adx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/trend/amat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/trend/aroon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/trend/decreasing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/trend/dpo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/trend/increasing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/trend/linear_decay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/trend/long_run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/trend/qstick.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/trend/short_run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/trend/vortex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volatility/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volatility/accbands.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volatility/atr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volatility/bbands.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volatility/donchian.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volatility/kc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volatility/massi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volatility/natr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volatility/true_range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/ad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/adosc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/aobv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/cmf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/efi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/eom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/mfi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/nvi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/obv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/pvi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/pvol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/pvt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/pandas_ta/volume/vp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/context.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_momentum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_momentum_ext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_overlap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_overlap_ext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_performance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_performance_ext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_statistics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_statistics_ext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_trend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_trend_ext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_volatility.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_volatility_ext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_volume.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_indicator_volume_ext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-ta-master/tests/test_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-technical-indicators-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-technical-indicators-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-technical-indicators-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-technical-indicators-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-technical-indicators-master/osama.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Market/pandas-technical-indicators-master/technical_indicators Osama7-4-2020.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +774,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Stock Market" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -210,14 +783,15 @@
       <recent name="https://github.com/engosama69/OsamaPython/blob/master/New%20Test.py" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\Project\00Osama Python\00Stock Market\py Files for calculate indicator 7-4-2020" />
       <recent name="D:\Python\Project\00-New-Osama-Python\For Study" />
       <recent name="D:\python\PycharmProjects\OsamaPython" />
       <recent name="D:\python\PycharmProjects\Complete-Python-3-Bootcamp\04-Milestone Project - 1" />
       <recent name="D:\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Test Cal SuperTrend 5-4-2020">
-    <configuration name="Osama Study" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.TA-LIB TEST">
+    <configuration name="TA-LIB TEST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,12 +799,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/For Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For Study/Osama Study.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TA-LIB TEST.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +835,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fix_kernelspec" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="indicator Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,12 +843,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00Stock Market/Indicato Calculation" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools/fix_kernelspec.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00Stock Market/Indicato Calculation/indicator Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,7 +857,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generate_contents" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="indicators (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,12 +865,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00Stock Market/Indicato Calculation/Technical-Indicators-master/indicator" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools/generate_contents.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00Stock Market/Indicato Calculation/Technical-Indicators-master/indicator/indicators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,11 +903,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TA-LIB TEST" />
+        <item itemvalue="Python.indicators (1)" />
+        <item itemvalue="Python.indicator Test" />
         <item itemvalue="Python.Test Cal SuperTrend 5-4-2020" />
         <item itemvalue="Python.indicators" />
-        <item itemvalue="Python.Osama Study" />
-        <item itemvalue="Python.generate_contents" />
-        <item itemvalue="Python.fix_kernelspec" />
       </list>
     </recent_temporary>
   </component>
@@ -578,6 +1152,8 @@
       <workItem from="1586093834007" duration="2005000" />
       <workItem from="1586118589774" duration="8255000" />
       <workItem from="1586128699945" duration="65000" />
+      <workItem from="1586273334018" duration="12946000" />
+      <workItem from="1586309903447" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary="25-1">
       <created>1579882951755</created>
@@ -971,39 +1547,39 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="94" y="94" width="1093" height="502" maximized="true" key="DiffContextDialog/0.0.1280.690@0.0.1280.690" timestamp="1579885755158" />
-    <state x="422" y="106" width="679" height="491" key="FileChooserDialogImpl" timestamp="1586128763892">
+    <state x="422" y="106" width="679" height="491" key="FileChooserDialogImpl" timestamp="1586275218602">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="422" y="102" key="FileChooserDialogImpl/0.0.1280.690@0.0.1280.690" timestamp="1579882857294" />
-    <state x="422" y="106" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1586128763892" />
+    <state x="422" y="106" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1586275218602" />
     <state x="528" y="133" width="679" height="491" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1584358892513" />
     <state x="412" y="228" key="Github.CreatePullRequestDialog" timestamp="1584370877800">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="412" y="228" key="Github.CreatePullRequestDialog/0.0.1280.720@0.0.1280.720" timestamp="1584370877800" />
-    <state width="595" height="569" key="GridCell.Tab.0.bottom" timestamp="1586126871848">
+    <state width="595" height="569" key="GridCell.Tab.0.bottom" timestamp="1586296153505">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="595" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586126871848" />
+    <state width="595" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586296153505" />
     <state width="877" height="748" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1584434690811" />
-    <state width="595" height="569" key="GridCell.Tab.0.center" timestamp="1586126871848">
+    <state width="595" height="569" key="GridCell.Tab.0.center" timestamp="1586296153505">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="595" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586126871848" />
+    <state width="595" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586296153505" />
     <state width="877" height="748" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="595" height="569" key="GridCell.Tab.0.left" timestamp="1586126871847">
+    <state width="595" height="569" key="GridCell.Tab.0.left" timestamp="1586296153505">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="595" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586126871847" />
+    <state width="595" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586296153505" />
     <state width="877" height="748" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="595" height="569" key="GridCell.Tab.0.right" timestamp="1586126871848">
+    <state width="595" height="569" key="GridCell.Tab.0.right" timestamp="1586296153505">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="595" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586126871848" />
+    <state width="595" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586296153505" />
     <state width="877" height="748" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
     <state width="1237" height="210" key="GridCell.Tab.1.bottom" timestamp="1585936921024">
       <screen x="0" y="0" width="1280" height="720" />
@@ -1043,11 +1619,11 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="478" y="58" key="RollbackChangesDialog/0.0.1280.690@0.0.1280.690" timestamp="1579882907163" />
-    <state x="189" y="0" key="SettingsEditor" timestamp="1586093882696">
+    <state x="189" y="0" key="SettingsEditor" timestamp="1586311178429">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="251" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1579885015085" />
-    <state x="189" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1586093882696" />
+    <state x="189" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1586311178429" />
     <state x="398" y="80" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1584432886711" />
     <state x="478" y="278" key="VCS.ChangelistChooser" timestamp="1580146787335">
       <screen x="0" y="0" width="1280" height="720" />
@@ -1129,6 +1705,7 @@
     <SUITE FILE_PATH="coverage/OsamaPython$guarantee_a_fixed_monthly_and_annual_income__1_.coverage" NAME="guarantee a fixed monthly and annual income (1) Coverage Results" MODIFIED="1582205222802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$yagmail.coverage" NAME="yagmail Coverage Results" MODIFIED="1584307504099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$Osama_Study.coverage" NAME="Osama Study Coverage Results" MODIFIED="1586038425044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
+    <SUITE FILE_PATH="coverage/00Osama_Python$indicator_Test.coverage" NAME="indicator Test Coverage Results" MODIFIED="1586275079520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00Stock Market/Indicato Calculation" />
     <SUITE FILE_PATH="coverage/OsamaPython$hackerrank_com.coverage" NAME="hackerrank.com Coverage Results" MODIFIED="1583856766441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Time_Table_10_2_2020.coverage" NAME="Time Table 10-2-2020 Coverage Results" MODIFIED="1581329768925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$ggggg__1_.coverage" NAME="ggggg (1) Coverage Results" MODIFIED="1582576755958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1147,6 +1724,7 @@
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$add_book_info.coverage" NAME="add_book_info Coverage Results" MODIFIED="1585477046980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
     <SUITE FILE_PATH="coverage/OsamaPython$milestonproject1.coverage" NAME="milestonproject1 Coverage Results" MODIFIED="1582640733005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Milestone_Project_1.coverage" NAME="Milestone Project 1 Coverage Results" MODIFIED="1582574693538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/00Osama_Python$TA_LIB_TEST.coverage" NAME="TA-LIB TEST Coverage Results" MODIFIED="1586295574476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Exercies.coverage" NAME="Exercies Coverage Results" MODIFIED="1582142529640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$New_Send_Email.coverage" NAME="New Send Email Coverage Results" MODIFIED="1584133353004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$dddddd.coverage" NAME="dddddd Coverage Results" MODIFIED="1580975253870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1164,6 +1742,7 @@
     <SUITE FILE_PATH="coverage/OsamaPython$New_Milestone_Project_26_2_2020.coverage" NAME="New Milestone Project 26-2-2020 Coverage Results" MODIFIED="1582786250759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Osama$OsamaNotes22_1_2020.coverage" NAME="OsamaNotes22-1-2020 Coverage Results" MODIFIED="1579869916540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/New_Osama_Python$Osama_Study.coverage" NAME="Osama Study Coverage Results" MODIFIED="1584456357978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
+    <SUITE FILE_PATH="coverage/00Osama_Python$indicators__1_.coverage" NAME="indicators (1) Coverage Results" MODIFIED="1586294626625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00Stock Market/Indicato Calculation/Technical-Indicators-master/indicator" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$indicators.coverage" NAME="indicators Coverage Results" MODIFIED="1586118845397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Market/Technical-Indicators-master/indicator" />
     <SUITE FILE_PATH="coverage/OsamaPython$Work_With_Excel.coverage" NAME="Work With Excel Coverage Results" MODIFIED="1582539452190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Time_Tables_7_1_2020.coverage" NAME="Time Tables 7-1-2020 Coverage Results" MODIFIED="1581329890988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
