@@ -14,11 +14,11 @@ log = logging.getLogger(__name__)
 # 1- Load data
 indicators_value = []
 ticker_name = []
-glob.glob("D:\Stock Study Excel Files\Input Excel Files\EGX\*.xls")
-for f in glob.glob('D:\Stock Study Excel Files\Input Excel Files\EGX\*.xls'):
-    df = pd.read_excel(f, skiprows=1)
-    df.columns = map(str.capitalize, df.columns)
-    df.rename(columns={'Volume': 'Volume_BTC'}, inplace=True)
+glob.glob("D:\Stock Study Excel Files\Input Excel Files\Stock USA\*.xlsx")
+for f in glob.glob('D:\Stock Study Excel Files\Input Excel Files\Stock USA\*.xlsx'):
+    df = pd.read_excel(f)
+   # df.columns = map(str.capitalize, df.columns)
+    #df.rename(columns={'Volume': 'Volume_BTC'}, inplace=True)
     tike = f.split('\\')[-1].split('.')[0]
     print(tike)
     df.insert(1, 'TICKER', tike)  # to bring excel file name
@@ -63,14 +63,14 @@ for f in glob.glob('D:\Stock Study Excel Files\Input Excel Files\EGX\*.xls'):
             del buy[-1]
             del date_buy[-1]
         profits = pd.DataFrame()
-        profits['Buy'] = buy
+        profits['Buy Price'] = buy
         profits['Buy Date'] = date_buy
-        profits['Sell'] = sell
+        profits['Sell Price'] = sell
         profits['Sell Date'] = date_sell
-        profits['Profits'] = ((profits['Sell'] - profits['Buy']) / profits['Buy']) * 100
+        profits['Profits'] = ((profits['Sell Price'] - profits['Buy Price']) / profits['Buy Price']) * 100
         # profits.drop(profits.tail(1).index, inplace=True)  # drop last n rows
         sum(profits['Profits'])
-        profits.round(2).to_excel(f'{f}.xlsx', sheet_name="indicator Osama", index=True, index_label="No")
+        profits.round(2).to_excel(f'{f}.xlsx', sheet_name="indicator Osama", index=True, index_label="TICKER")
         indicators_value.append(sum(profits['Profits']))
     #########################################################################
     tik = df.iloc[0]['TICKER']
@@ -80,6 +80,6 @@ basic = pd.DataFrame(indicators_value, ticker_name)
 indicators_na = pd.DataFrame(indicators, index=[0])
 final_results = pd.concat([indicators_na, basic], axis=0)
 # final_results.insert(0, 'TICKER', tike)
-final_results.round(2).to_excel('D:\Stock Study Excel Files\Output Excel Files\EGX\indicators.xlsx', sheet_name=tike,
-                                index=True, index_label="TICKER")
+final_results.round(2).to_excel('D:\Stock Study Excel Files\Output Excel Files\Stock USA\indicators.xlsx', sheet_name="indicators value",
+                                index=True)
 print(final_results)

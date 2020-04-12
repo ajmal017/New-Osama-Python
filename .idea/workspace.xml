@@ -2,114 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7b16591-7e2e-4f75-af43-b38562b35faa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/.ipynb_checkpoints/TA-Lib all Indicator No1 Stratigy-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/.ipynb_checkpoints/The Relationship Between the stock and indicator all the Time 9-4-2020 -checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/.ipynb_checkpoints/to indicator one ticker New 10-4-2020-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/No1 Osama Multifiles One Indicator all time 10-4-2020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/TA-Lib all Indicator No1 Stratigy.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/Untitled1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/one indicator New 10-4-2020 .ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/pandas3.out.no3lines.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/test 10-4-2020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/test10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/to indicator one ticker New 10-4-2020.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Temp/TEST INDICATOROsama 6-4-2020 (1).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Temp/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Temp/pARABOLIC saR diSCTION.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Untitled1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Untitled2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/.ipynb_checkpoints/Osama all Indicator NO1 Very important-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/.ipynb_checkpoints/TA-Lib all Indicator NO1 Very important 9-4-2020-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/.ipynb_checkpoints/TA-Lib all Indicator NO1 Very important-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/New Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/Osama all Indicator NO1 Very important.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/Osama all indicators 1 .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/Osama all indicators 2 .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/Osama all indicators 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/Study any Company on the American Stock Market.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/TA-Lib all Indicator NO1 Very important 9-4-2020.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/TA-Lib all Indicator NO1 Very important 9-4-2020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/TA-Lib all Indicator NO1 Very important.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/all indicator with Plots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/example.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/indicator2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/test 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/to Drawing indicator .ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/visualize_features No1 .ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/.ipynb_checkpoints/Parabolic sar 1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/.ipynb_checkpoints/SuperTrend Calculation Osama 6-4-2020-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/.ipynb_checkpoints/TEST INDICATOROsama 6-4-2020 (1)-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/Calculate Indicator For Group files.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/Calculate Indicator For Group files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/Calculates Exponential Moving Average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/Parabolic sar 1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/Parabolic sar 2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/SuperTrend Calculation Osama 6-4-2020.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/SuperTrend Calculation Osama 6-4-2020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/indicator Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/accumulation_distribution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/aroon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/average_true_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/average_true_range_percent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/bollinger_bands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/catch_errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/chaikin_money_flow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/chande_momentum_oscillator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/commodity_channel_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/detrended_price_oscillator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/directional_indicators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/double_exponential_moving_average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/double_smoothed_stochastic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/exponential_moving_average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/function_helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/hull_moving_average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/ichimoku_cloud.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/keltner_bands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/linear_weighted_moving_average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/momentum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/money_flow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/money_flow_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/moving_average_convergence_divergence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/moving_average_envelope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/on_balance_volume.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/price_channels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/price_oscillator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/rate_of_change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/relative_strength_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/simple_moving_average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/smoothed_moving_average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/standard_deviation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/standard_variance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/stochastic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/stochrsi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/triangular_moving_average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/triple_exponential_moving_average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/true_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/typical_price.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/ultimate_oscillator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/vertical_horizontal_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/volatility.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/volume_adjusted_moving_average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/volume_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/volume_oscillator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/weighted_moving_average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/individual indicator Calculation/pyti/williams_percent_r.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Osama_Modules.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Osama.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Osama.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/osama.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/osama.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/Amazon usa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/No1 USA STOCK analysis 11-4-2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/No1 USA Stock Study 12-4-2020.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/TA-Lib all Indicator NO1 for USA Stock  9-4-2020.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/USA Stock Market.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/import data from usa stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/test 12-4-2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/.ipynb_checkpoints/Study any Company on the American Stock Market-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/.ipynb_checkpoints/TA-Lib all Indicator NO1 Egy Stock Very important-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/TA-Lib all Indicator NO1 Egy Stock Very important.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/final Important File 12-4-2020/1EGX Ta-Lib all features 12-4-2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/final Important File 12-4-2020/No1 USA STOCK analysis 11-4-2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/final Important File 12-4-2020/No1 all features for EGX Stock12-4-2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Stock Market/final Important File 12-4-2020/import data from usa stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/No5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/.ipynb_checkpoints/EGX Egypt Stock 12-4-2020-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/.ipynb_checkpoints/Stock USA Every Things-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/EGX Egypt Stock 12-4-2020.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/No1 EGX Ta-Lib all features 12-4-2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/No3 EGX Study 12-4-2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/No4 Stock USA import data 12-4-2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/No5 Stock USA Ta-Lib all features 12-4-2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/No7 Stock USA Study 12-4-2020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/Stock USA Every Things.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/update all package pip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pylint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pylint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/Osama_Modules.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TA-LIB TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TA-LIB TEST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Stock Market/Stratigy/No1 Osama Multifiles One Indicator all time 10-4-2020.py" beforeDir="false" afterPath="$PROJECT_DIR$/01Stock Market/Stratigy/No1 Osama Multifiles One Indicator all time 10-4-2020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/.ipynb_checkpoints/TA-Lib all Indicator NO1 Very important-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/Study any Company on the American Stock Market.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/Study any Company on the American Stock Market.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/TA-Lib all Indicator NO1 Very important 9-4-2020.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/TA-Lib all Indicator NO1 Very important 9-4-2020.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/TA-Lib all Indicator NO1 Very important.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +75,7 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="JupyterTrust" id="e2db06bd-3b34-4d6e-9a7f-13fc88995bfe" />
   <component name="ProjectId" id="1WprAFospAGdEqWi9wWNofiwENa" />
@@ -154,7 +85,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -162,8 +92,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/01Stock Market/Stratigy" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Stock Study Python Files" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -171,15 +101,15 @@
       <recent name="https://github.com/engosama69/OsamaPython/blob/master/New%20Test.py" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\Project\01Osama Python\Stock Study Python Files" />
+      <recent name="D:\Python\Project\01Osama Python\01Stock Market\final Important File 12-4-2020" />
       <recent name="D:\Python\Project\01Osama Python\01Stock Market\Stratigy" />
       <recent name="D:\Python\Project\01Osama Python\01Stock Market\all indicators Calculation indicator" />
       <recent name="D:\Python\Project\00Osama Python\00Stock Market\py Files for calculate indicator 7-4-2020" />
-      <recent name="D:\Python\Project\00-New-Osama-Python\For Study" />
-      <recent name="D:\python\PycharmProjects\OsamaPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.No1 Osama Multifiles One Indicator all time 10-4-2020">
-    <configuration name="New Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.No7 Stock USA Study 12-4-2020">
+    <configuration name="No4 Stock USA import data 12-4-2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,12 +117,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stock Study Python Files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/New Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock Study Python Files/No4 Stock USA import data 12-4-2020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="No1 Osama Multifiles One Indicator all time 10-4-2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="No5 Stock USA Ta-Lib all features 12-4-2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,12 +139,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Stock Market/Stratigy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stock Study Python Files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Stock Market/Stratigy/No1 Osama Multifiles One Indicator all time 10-4-2020.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock Study Python Files/No5 Stock USA Ta-Lib all features 12-4-2020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="No5 Stock USA Ta-Lib all features 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,12 +161,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stock Study Python Files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/test 3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock Study Python Files/No5 Stock USA Ta-Lib all features 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="No5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,12 +183,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Stock Market/Stratigy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Stock Market/Stratigy/test10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/No5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="No7 Stock USA Study 12-4-2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,12 +205,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stock Study Python Files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/test4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock Study Python Files/No7 Stock USA Study 12-4-2020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.No1 Osama Multifiles One Indicator all time 10-4-2020" />
-        <item itemvalue="Python.test10" />
-        <item itemvalue="Python.test4" />
-        <item itemvalue="Python.test 3" />
-        <item itemvalue="Python.New Test" />
+        <item itemvalue="Python.No7 Stock USA Study 12-4-2020" />
+        <item itemvalue="Python.No4 Stock USA import data 12-4-2020" />
+        <item itemvalue="Python.No5 Stock USA Ta-Lib all features 12-4-2020" />
+        <item itemvalue="Python.No5 Stock USA Ta-Lib all features 2" />
+        <item itemvalue="Python.No5" />
       </list>
     </recent_temporary>
   </component>
@@ -550,6 +480,11 @@
       <workItem from="1586457807831" duration="15038000" />
       <workItem from="1586505870380" duration="25265000" />
       <workItem from="1586598875022" duration="1094000" />
+      <workItem from="1586600008069" duration="801000" />
+      <workItem from="1586600922656" duration="1977000" />
+      <workItem from="1586614858798" duration="3254000" />
+      <workItem from="1586619637358" duration="17490000" />
+      <workItem from="1586684679357" duration="13839000" />
     </task>
     <task id="LOCAL-00001" summary="25-1">
       <created>1579882951755</created>
@@ -838,7 +773,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586335426438</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary=" 9-4-2020">
+      <created>1586600092564</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1586600092564</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -849,8 +791,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/Complete-Python-3-Bootcamp" />
+      <path value="$PROJECT_DIR$/Whatsapp-autosend-script" />
     </ignored-roots>
-    <MESSAGE value="new" />
     <MESSAGE value="6-2-2020" />
     <MESSAGE value="change file name" />
     <MESSAGE value="10-2-202" />
@@ -875,7 +817,8 @@
     <MESSAGE value="Update 1-4-2020" />
     <MESSAGE value="Up 1-4-2020" />
     <MESSAGE value=" 8-4-2020" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 8-4-2020" />
+    <MESSAGE value=" 9-4-2020" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 9-4-2020" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="108" key="#Code_Folding" timestamp="1582719169392">
@@ -940,49 +883,49 @@
     </state>
     <state x="511" y="188" width="459" height="482" key="#com.intellij.tools.ToolEditorDialog/0.0.1280.720@0.0.1280.720" timestamp="1580832073705" />
     <state x="639" y="235" key="#com.intellij.tools.ToolEditorDialog/0.0.1600.900@0.0.1600.900" timestamp="1580982590121" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586335376413">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586600089368">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.690@0.0.1280.690" timestamp="1579885656796" />
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1586335376413" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1586600089368" />
     <state x="331" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1584444195983" />
-    <state x="94" y="94" width="1093" height="502" maximized="true" key="DiffContextDialog" timestamp="1580055183036">
+    <state x="94" y="94" width="1093" height="502" maximized="true" key="DiffContextDialog" timestamp="1586621201241">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="94" y="94" width="1093" height="502" maximized="true" key="DiffContextDialog/0.0.1280.690@0.0.1280.690" timestamp="1579885755158" />
-    <state x="422" y="106" width="679" height="491" key="FileChooserDialogImpl" timestamp="1586435197368">
+    <state x="422" y="106" width="679" height="491" key="FileChooserDialogImpl" timestamp="1586697560606">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="422" y="102" key="FileChooserDialogImpl/0.0.1280.690@0.0.1280.690" timestamp="1579882857294" />
-    <state x="422" y="106" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1586435197368" />
+    <state x="422" y="106" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1586697560606" />
     <state x="528" y="133" width="679" height="491" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1584358892513" />
     <state x="412" y="228" key="Github.CreatePullRequestDialog" timestamp="1584370877800">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="412" y="228" key="Github.CreatePullRequestDialog/0.0.1280.720@0.0.1280.720" timestamp="1584370877800" />
-    <state width="595" height="569" key="GridCell.Tab.0.bottom" timestamp="1586563015536">
+    <state width="669" height="569" key="GridCell.Tab.0.bottom" timestamp="1586705384887">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="595" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586563015536" />
+    <state width="669" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586705384887" />
     <state width="877" height="748" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1584434690811" />
-    <state width="595" height="569" key="GridCell.Tab.0.center" timestamp="1586563015536">
+    <state width="669" height="569" key="GridCell.Tab.0.center" timestamp="1586705384887">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="595" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586563015536" />
+    <state width="669" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586705384887" />
     <state width="877" height="748" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="595" height="569" key="GridCell.Tab.0.left" timestamp="1586563015536">
+    <state width="669" height="569" key="GridCell.Tab.0.left" timestamp="1586705384887">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="595" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586563015536" />
+    <state width="669" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586705384887" />
     <state width="877" height="748" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="595" height="569" key="GridCell.Tab.0.right" timestamp="1586563015536">
+    <state width="669" height="569" key="GridCell.Tab.0.right" timestamp="1586705384887">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="595" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586563015536" />
+    <state width="669" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586705384887" />
     <state width="877" height="748" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
     <state width="1237" height="210" key="GridCell.Tab.1.bottom" timestamp="1585936921024">
       <screen x="0" y="0" width="1280" height="720" />
@@ -1004,10 +947,10 @@
     </state>
     <state width="1237" height="210" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1585936921024" />
     <state width="1557" height="282" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1582539903638" />
-    <state x="278" y="121" key="IDE.errors.dialog" timestamp="1580985567797">
-      <screen x="0" y="0" width="1600" height="900" />
+    <state x="222" y="97" key="IDE.errors.dialog" timestamp="1586620626853">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="222" y="97" key="IDE.errors.dialog/0.0.1280.720@0.0.1280.720" timestamp="1580741764897" />
+    <state x="222" y="97" key="IDE.errors.dialog/0.0.1280.720@0.0.1280.720" timestamp="1586620626853" />
     <state x="278" y="121" key="IDE.errors.dialog/0.0.1600.900@0.0.1600.900" timestamp="1580985567797" />
     <state x="152" y="71" key="MergeDialog" timestamp="1581489477400">
       <screen x="0" y="0" width="1600" height="900" />
@@ -1022,20 +965,20 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="478" y="58" key="RollbackChangesDialog/0.0.1280.690@0.0.1280.690" timestamp="1579882907163" />
-    <state x="185" y="7" key="SettingsEditor" timestamp="1586599977175">
+    <state x="185" y="7" key="SettingsEditor" timestamp="1586628582166">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="251" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1579885015085" />
-    <state x="185" y="7" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1586599977175" />
+    <state x="185" y="7" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1586628582166" />
     <state x="398" y="80" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1584432886711" />
-    <state x="478" y="278" key="VCS.ChangelistChooser" timestamp="1580146787335">
+    <state x="478" y="278" key="VCS.ChangelistChooser" timestamp="1586620475848">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="478" y="278" key="VCS.ChangelistChooser/0.0.1280.720@0.0.1280.720" timestamp="1580146787335" />
-    <state x="234" y="95" key="Vcs.Push.Dialog.v2" timestamp="1586335546016">
+    <state x="478" y="278" key="VCS.ChangelistChooser/0.0.1280.720@0.0.1280.720" timestamp="1586620475848" />
+    <state x="234" y="95" key="Vcs.Push.Dialog.v2" timestamp="1586600790336">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="234" y="95" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1586335546016" />
+    <state x="234" y="95" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1586600790336" />
     <state x="293" y="119" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1584442088400" />
     <state x="397" y="207" key="cloudConfig.PluginsDialog" timestamp="1585168180146">
       <screen x="0" y="0" width="1280" height="720" />
@@ -1064,7 +1007,7 @@
     </state>
     <state x="355" y="154" key="git4idea.merge.GitPullDialog/0.0.1280.720@0.0.1280.720" timestamp="1584370720993" />
     <state x="444" y="193" key="git4idea.merge.GitPullDialog/0.0.1600.900@0.0.1600.900" timestamp="1582439081781" />
-    <state width="775" height="340" key="javadoc.popup" timestamp="1586123912445">
+    <state width="775" height="340" key="javadoc.popup" timestamp="1586620250520">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="461" height="241" key="javadoc.popup.new" timestamp="1585383061348">
@@ -1072,7 +1015,7 @@
     </state>
     <state width="461" height="241" key="javadoc.popup.new/0.0.1280.720@0.0.1280.720" timestamp="1585383061348" />
     <state width="576" height="301" key="javadoc.popup.new/0.0.1600.900@0.0.1600.900" timestamp="1583652149754" />
-    <state width="775" height="340" key="javadoc.popup/0.0.1280.720@0.0.1280.720" timestamp="1586123912445" />
+    <state width="775" height="340" key="javadoc.popup/0.0.1280.720@0.0.1280.720" timestamp="1586620250520" />
     <state width="968" height="424" key="javadoc.popup/0.0.1600.900@0.0.1600.900" timestamp="1583652140305" />
     <state x="370" y="152" width="538" height="543" key="search.everywhere.popup" timestamp="1584089251026">
       <screen x="0" y="0" width="1280" height="720" />
@@ -1090,9 +1033,13 @@
     <SUITE FILE_PATH="coverage/01Osama_Python$test_3.coverage" NAME="test 3 Coverage Results" MODIFIED="1586471177008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
     <SUITE FILE_PATH="coverage/OsamaPython$New_Milestone_Project_26_2_2020.coverage" NAME="New Milestone Project 26-2-2020 Coverage Results" MODIFIED="1582786250759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python_master$Osama_Study.coverage" NAME="Osama Study Coverage Results" MODIFIED="1584433035232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$No1_Osama_Multifiles_One_Indicator_all_time_10_4_2020.coverage" NAME="No1 Osama Multifiles One Indicator all time 10-4-2020 Coverage Results" MODIFIED="1586562427908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$update_all_package_pip.coverage" NAME="update all package pip Coverage Results" MODIFIED="1586602016885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No1_Osama_Multifiles_One_Indicator_all_time_10_4_2020.coverage" NAME="No1 Osama Multifiles One Indicator all time 10-4-2020 Coverage Results" MODIFIED="1586695144723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No5_Stock_USA_Ta_Lib_all_features_2.coverage" NAME="No5 Stock USA Ta-Lib all features 2 Coverage Results" MODIFIED="1586697677275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
     <SUITE FILE_PATH="coverage/OsamaPython$Test_For_Time_Table.coverage" NAME="Test For Time Table Coverage Results" MODIFIED="1581316950425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$generate_contents.coverage" NAME="generate_contents Coverage Results" MODIFIED="1585477097647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No5.coverage" NAME="No5 Coverage Results" MODIFIED="1586697520455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No4_Stock_USA_import_data_12_4_2020.coverage" NAME="No4 Stock USA import data 12-4-2020 Coverage Results" MODIFIED="1586701658072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
     <SUITE FILE_PATH="coverage/OsamaPython$Education_fees.coverage" NAME="Education fees Coverage Results" MODIFIED="1581588986143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Time_Table_10_2_2020__1_.coverage" NAME="Time Table 10-2-2020 (1) Coverage Results" MODIFIED="1581406547951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/02_OsamaPython$osamasendemail.coverage" NAME="osamasendemail Coverage Results" MODIFIED="1584361411775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1103,6 +1050,7 @@
     <SUITE FILE_PATH="coverage/OsamaPython$milestonproject1.coverage" NAME="milestonproject1 Coverage Results" MODIFIED="1582640733005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$indicators.coverage" NAME="indicators Coverage Results" MODIFIED="1586118845397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Market/Technical-Indicators-master/indicator" />
     <SUITE FILE_PATH="coverage/OsamaPython$Milestone_Project_2___Blackjack_Game.coverage" NAME="Milestone Project 2 - Blackjack Game Coverage Results" MODIFIED="1583772290965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$import_data_from_usa_stock.coverage" NAME="import data from usa stock Coverage Results" MODIFIED="1586643068771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
     <SUITE FILE_PATH="coverage/OsamaPython$osamasendemail.coverage" NAME="osamasendemail Coverage Results" MODIFIED="1584374627244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python_master$Make_yagamil_Like_app_16_3_2020.coverage" NAME="Make yagamil Like app 16-3-2020 Coverage Results" MODIFIED="1584432889064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$test4444.coverage" NAME="test4444 Coverage Results" MODIFIED="1584133078640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1126,11 +1074,15 @@
     <SUITE FILE_PATH="coverage/OsamaPython$Exercies22.coverage" NAME="Exercies22 Coverage Results" MODIFIED="1582190910786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$ggggg__1_.coverage" NAME="ggggg (1) Coverage Results" MODIFIED="1582576755958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Work_With_Excel.coverage" NAME="Work With Excel Coverage Results" MODIFIED="1582539452190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No7_Stock_USA_Study_12_4_2020.coverage" NAME="No7 Stock USA Study 12-4-2020 Coverage Results" MODIFIED="1586701708970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
     <SUITE FILE_PATH="coverage/00Osama_Python$indicators__1_.coverage" NAME="indicators (1) Coverage Results" MODIFIED="1586294626625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00Stock Market/Indicato Calculation/Technical-Indicators-master/indicator" />
     <SUITE FILE_PATH="coverage/01Osama_Python$all_indicator_with_Plots.coverage" NAME="all indicator with Plots Coverage Results" MODIFIED="1586451922589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
     <SUITE FILE_PATH="coverage/OsamaPython$Exercies22__1_.coverage" NAME="guarantee a fixed monthly and annual income Coverage Results" MODIFIED="1582197682222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$cookies.coverage" NAME="cookies Coverage Results" MODIFIED="1584897497489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/coursera-dl/coursera" />
     <SUITE FILE_PATH="coverage/OsamaPython$Send_Email.coverage" NAME="Send Email Coverage Results" MODIFIED="1584082538080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$Amazon_usa.coverage" NAME="Amazon usa Coverage Results" MODIFIED="1586642574344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No4Stock_USA_import_data_12_4_2020.coverage" NAME="No4Stock USA import data 12-4-2020 Coverage Results" MODIFIED="1586696215634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$test_12_4_2020.coverage" NAME="test 12-4-2020 Coverage Results" MODIFIED="1586686762218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
     <SUITE FILE_PATH="coverage/OsamaPython$test55555.coverage" NAME="test55555 Coverage Results" MODIFIED="1582719059504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Milestone_Project_1.coverage" NAME="Milestone Project 1 Coverage Results" MODIFIED="1582574693538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Osama$New_Time_table.coverage" NAME="New Time table Coverage Results" MODIFIED="1579858004567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1138,6 +1090,7 @@
     <SUITE FILE_PATH="coverage/01Osama_Python$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1586535137535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
     <SUITE FILE_PATH="coverage/01Osama_Python$TA_LIB_TEST.coverage" NAME="TA-LIB TEST Coverage Results" MODIFIED="1586340274718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00Osama_Python$TA_LIB_TEST.coverage" NAME="TA-LIB TEST Coverage Results" MODIFIED="1586295574476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No1_USA_STOCK_analysis_11_4_2020.coverage" NAME="No1 USA STOCK analysis 11-4-2020 Coverage Results" MODIFIED="1586643081959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$add_book_info.coverage" NAME="add_book_info Coverage Results" MODIFIED="1585477046980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
     <SUITE FILE_PATH="coverage/OsamaPython$Osama_Modules.coverage" NAME="Osama_Modules Coverage Results" MODIFIED="1582788409227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$OsamaTest__1_.coverage" NAME="OsamaTest (1) Coverage Results" MODIFIED="1580829848561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1151,6 +1104,9 @@
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$fix_kernelspec.coverage" NAME="fix_kernelspec Coverage Results" MODIFIED="1585477085898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
     <SUITE FILE_PATH="coverage/OsamaPython$Summery_Python__1_.coverage" NAME="Summery Python (1) Coverage Results" MODIFIED="1582566541234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Milestone2__1_.coverage" NAME="Milestone2 (1) Coverage Results" MODIFIED="1582575127253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$USA_Stock_Market.coverage" NAME="USA Stock Market Coverage Results" MODIFIED="1586642586131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No5_Stock_USA_all_Ta_Lib_features_12_4_2020.coverage" NAME="No5 Stock USA all Ta-Lib features 12-4-2020 Coverage Results" MODIFIED="1586697109895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No5_Stock_USA_Ta_Lib_all_features_12_4_2020.coverage" NAME="No5 Stock USA Ta-Lib all features 12-4-2020 Coverage Results" MODIFIED="1586701014002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$add_navigation.coverage" NAME="add_navigation Coverage Results" MODIFIED="1585477067015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
     <SUITE FILE_PATH="coverage/OsamaPython$guarantee_a_fixed_monthly_and_annual_income__1_.coverage" NAME="guarantee a fixed monthly and annual income (1) Coverage Results" MODIFIED="1582205222802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$test33.coverage" NAME="test33 Coverage Results" MODIFIED="1584312687849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1162,5 +1118,7 @@
     <SUITE FILE_PATH="coverage/OsamaPython$New_Time_table.coverage" NAME="New Time table Coverage Results" MODIFIED="1580984438575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/02_OsamaPython$Test_For_file.coverage" NAME="Test For file Coverage Results" MODIFIED="1584355841058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01Osama_Python$TA_Lib_all_Indicator_NO1_Very_important_9_4_2020.coverage" NAME="TA-Lib all Indicator NO1 Very important 9-4-2020 Coverage Results" MODIFIED="1586435865243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No5USA_STOCK_analysis_11_4_2020.coverage" NAME="No5USA STOCK analysis 11-4-2020 Coverage Results" MODIFIED="1586697279630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No1_all_features_for_EGX_Stock12_4_2020.coverage" NAME="No1 all features for EGX Stock12-4-2020 Coverage Results" MODIFIED="1586688342129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/final Important File 12-4-2020" />
   </component>
 </project>
