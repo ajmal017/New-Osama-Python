@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7b16591-7e2e-4f75-af43-b38562b35faa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01Stock Market/.ipynb_checkpoints/Untitled4-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Untitled3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/Untitled4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Stock Market/sp500tickers.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/Stock USA Every Things 12-4-2020.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stock Study Python Files/.ipynb_checkpoints/Stock USA Every Things-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Stock Study Python Files/.ipynb_checkpoints/Stock USA Every Things-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stock Study Python Files/Stock USA Every Things.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Stock Study Excel Files/Data/s-and-p-500-companies-financials-master/s-and-p-500-companies-financials-master/scripts/constituents.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -77,7 +70,7 @@
       <recent name="D:\Python\Project\00Osama Python\00Stock Market\py Files for calculate indicator 7-4-2020" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.constituents">
+  <component name="RunManager" selected="Python.update all package pip">
     <configuration name="No4 Stock USA import data 12-4-2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,28 +107,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock Study Python Files/No5 Stock USA Ta-Lib all features 12-4-2020.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="No5 Stock USA Ta-Lib all features 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Osama" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stock Study Python Files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock Study Python Files/No5 Stock USA Ta-Lib all features 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,13 +159,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="update all package pip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Osama" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/update all package pip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.update all package pip" />
         <item itemvalue="Python.constituents" />
         <item itemvalue="Python.No7 Stock USA Study 12-4-2020" />
         <item itemvalue="Python.No4 Stock USA import data 12-4-2020" />
         <item itemvalue="Python.No5 Stock USA Ta-Lib all features 12-4-2020" />
-        <item itemvalue="Python.No5 Stock USA Ta-Lib all features 2" />
       </list>
     </recent_temporary>
   </component>
@@ -455,6 +448,10 @@
       <workItem from="1586619637358" duration="17490000" />
       <workItem from="1586684679357" duration="13839000" />
       <workItem from="1586715363041" duration="2853000" />
+      <workItem from="1586727030971" duration="53000" />
+      <workItem from="1586788174513" duration="209000" />
+      <workItem from="1586788412892" duration="1341000" />
+      <workItem from="1586801088169" duration="1009000" />
     </task>
     <task id="LOCAL-00001" summary="25-1">
       <created>1579882951755</created>
@@ -757,7 +754,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586715458525</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary=" 11-4-2020 Night">
+      <created>1586727055286</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1586727055286</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -770,7 +774,6 @@
       <path value="$PROJECT_DIR$/Complete-Python-3-Bootcamp" />
       <path value="$PROJECT_DIR$/Whatsapp-autosend-script" />
     </ignored-roots>
-    <MESSAGE value="change file name" />
     <MESSAGE value="10-2-202" />
     <MESSAGE value="11-2-202" />
     <MESSAGE value="new11-2-202" />
@@ -795,7 +798,8 @@
     <MESSAGE value=" 8-4-2020" />
     <MESSAGE value=" 9-4-2020" />
     <MESSAGE value=" 11-4-2020 add Stock files" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 11-4-2020 add Stock files" />
+    <MESSAGE value=" 11-4-2020 Night" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 11-4-2020 Night" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="108" key="#Code_Folding" timestamp="1582719169392">
@@ -860,11 +864,11 @@
     </state>
     <state x="511" y="188" width="459" height="482" key="#com.intellij.tools.ToolEditorDialog/0.0.1280.720@0.0.1280.720" timestamp="1580832073705" />
     <state x="639" y="235" key="#com.intellij.tools.ToolEditorDialog/0.0.1600.900@0.0.1600.900" timestamp="1580982590121" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586715456271">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586727051036">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.690@0.0.1280.690" timestamp="1579885656796" />
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1586715456271" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1586727051036" />
     <state x="331" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1584444195983" />
     <state x="94" y="94" width="1093" height="502" maximized="true" key="DiffContextDialog" timestamp="1586621201241">
       <screen x="0" y="0" width="1280" height="720" />
@@ -880,29 +884,29 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="412" y="228" key="Github.CreatePullRequestDialog/0.0.1280.720@0.0.1280.720" timestamp="1584370877800" />
-    <state width="669" height="569" key="GridCell.Tab.0.bottom" timestamp="1586727000469">
+    <state width="669" height="569" key="GridCell.Tab.0.bottom" timestamp="1586799532380">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="669" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586727000469" />
+    <state width="669" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586799532380" />
     <state width="877" height="748" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1584434690811" />
-    <state width="669" height="569" key="GridCell.Tab.0.center" timestamp="1586727000469">
+    <state width="669" height="569" key="GridCell.Tab.0.center" timestamp="1586799532379">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="669" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586727000469" />
+    <state width="669" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586799532379" />
     <state width="877" height="748" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="669" height="569" key="GridCell.Tab.0.left" timestamp="1586727000469">
+    <state width="669" height="569" key="GridCell.Tab.0.left" timestamp="1586799532379">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="669" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586727000469" />
+    <state width="669" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586799532379" />
     <state width="877" height="748" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="669" height="569" key="GridCell.Tab.0.right" timestamp="1586727000469">
+    <state width="669" height="569" key="GridCell.Tab.0.right" timestamp="1586799532379">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="669" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586727000469" />
+    <state width="669" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586799532379" />
     <state width="877" height="748" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
     <state width="1237" height="210" key="GridCell.Tab.1.bottom" timestamp="1585936921024">
       <screen x="0" y="0" width="1280" height="720" />
@@ -942,20 +946,20 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="478" y="58" key="RollbackChangesDialog/0.0.1280.690@0.0.1280.690" timestamp="1579882907163" />
-    <state x="185" y="7" key="SettingsEditor" timestamp="1586628582166">
+    <state x="185" y="7" key="SettingsEditor" timestamp="1586802159648">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="251" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1579885015085" />
-    <state x="185" y="7" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1586628582166" />
+    <state x="185" y="7" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1586802159648" />
     <state x="398" y="80" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1584432886711" />
     <state x="478" y="278" key="VCS.ChangelistChooser" timestamp="1586620475848">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="478" y="278" key="VCS.ChangelistChooser/0.0.1280.720@0.0.1280.720" timestamp="1586620475848" />
-    <state x="234" y="95" key="Vcs.Push.Dialog.v2" timestamp="1586719999392">
+    <state x="234" y="95" key="Vcs.Push.Dialog.v2" timestamp="1586788504910">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="234" y="95" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1586719999392" />
+    <state x="234" y="95" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1586788504910" />
     <state x="293" y="119" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1584442088400" />
     <state x="397" y="207" key="cloudConfig.PluginsDialog" timestamp="1585168180146">
       <screen x="0" y="0" width="1280" height="720" />
@@ -1010,8 +1014,8 @@
     <SUITE FILE_PATH="coverage/01Osama_Python$test_3.coverage" NAME="test 3 Coverage Results" MODIFIED="1586471177008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
     <SUITE FILE_PATH="coverage/OsamaPython$New_Milestone_Project_26_2_2020.coverage" NAME="New Milestone Project 26-2-2020 Coverage Results" MODIFIED="1582786250759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python_master$Osama_Study.coverage" NAME="Osama Study Coverage Results" MODIFIED="1584433035232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$update_all_package_pip.coverage" NAME="update all package pip Coverage Results" MODIFIED="1586602016885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No1_Osama_Multifiles_One_Indicator_all_time_10_4_2020.coverage" NAME="No1 Osama Multifiles One Indicator all time 10-4-2020 Coverage Results" MODIFIED="1586695144723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$update_all_package_pip.coverage" NAME="update all package pip Coverage Results" MODIFIED="1586802163331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No5_Stock_USA_Ta_Lib_all_features_2.coverage" NAME="No5 Stock USA Ta-Lib all features 2 Coverage Results" MODIFIED="1586697677275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
     <SUITE FILE_PATH="coverage/OsamaPython$Test_For_Time_Table.coverage" NAME="Test For Time Table Coverage Results" MODIFIED="1581316950425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$generate_contents.coverage" NAME="generate_contents Coverage Results" MODIFIED="1585477097647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
@@ -1059,7 +1063,7 @@
     <SUITE FILE_PATH="coverage/OsamaPython$Send_Email.coverage" NAME="Send Email Coverage Results" MODIFIED="1584082538080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01Osama_Python$Amazon_usa.coverage" NAME="Amazon usa Coverage Results" MODIFIED="1586642574344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No4Stock_USA_import_data_12_4_2020.coverage" NAME="No4Stock USA import data 12-4-2020 Coverage Results" MODIFIED="1586696215634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$constituents.coverage" NAME="constituents Coverage Results" MODIFIED="1586722212160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Stock Study Excel Files/Data/s-and-p-500-companies-financials-master/s-and-p-500-companies-financials-master/scripts" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$constituents.coverage" NAME="constituents Coverage Results" MODIFIED="1586788508098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Stock Study Excel Files/Data/s-and-p-500-companies-financials-master/s-and-p-500-companies-financials-master/scripts" />
     <SUITE FILE_PATH="coverage/01Osama_Python$test_12_4_2020.coverage" NAME="test 12-4-2020 Coverage Results" MODIFIED="1586686762218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
     <SUITE FILE_PATH="coverage/OsamaPython$test55555.coverage" NAME="test55555 Coverage Results" MODIFIED="1582719059504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Milestone_Project_1.coverage" NAME="Milestone Project 1 Coverage Results" MODIFIED="1582574693538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
