@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7b16591-7e2e-4f75-af43-b38562b35faa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01Stock Market/.idea/Stock Market.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/No1 Strategy Close &amp; SMA .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyAlgoTrade SMA over the RSI over the closing prices .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyAlgoTrade closing SMA prices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyAlgoTrade prints closing prices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/.ipynb_checkpoints/Stock USA Every Things 12-4-2020-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade Modifay By Osama/.ipynb_checkpoints/No1 Osama Modifay Strategy Close &amp; SMA 13-4-2020-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade Modifay By Osama/No1 Osama Modifay Strategy Close &amp; SMA .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade Modifay By Osama/No1 Osama Modifay Strategy Close &amp; SMA 13-4-2020.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade/No1 Strategy Close &amp; SMA .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade/PyAlgoTrade SMA over the RSI over the closing prices .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade/PyAlgoTrade closing SMA prices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade/PyAlgoTrade prints closing prices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zipline/.idea/Zipline.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zipline/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zipline/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zipline/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zipline/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zipline/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zipline/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/osama.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Osama.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Osama.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Study Python Files/.ipynb_checkpoints/EGX Egypt Stock 12-4-2020-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Study Python Files/EGX Egypt Stock 12-4-2020.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Study Python Files/Stock USA Every Things 12-4-2020.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Stock Study Python Files/Stock USA Every Things 12-4-2020.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +59,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -39,7 +69,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="JupyterTrust" id="e2db06bd-3b34-4d6e-9a7f-13fc88995bfe" />
+  <component name="JupyterTrust" id="e2db06bd-3b34-4d6e-9a7f-13fc88995bfe">
+    <option name="files">
+      <option value="osama.ipynb" />
+    </option>
+  </component>
   <component name="ProjectId" id="1WprAFospAGdEqWi9wWNofiwENa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -51,11 +85,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Stock Study Excel Files/Data/s-and-p-500-companies-financials-master/s-and-p-500-companies-financials-master/scripts/constituents.py" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Stock Study Python Files" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Jupyter" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -64,14 +99,14 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\Project\01Osama Python\Stock Study Python Files" />
+      <recent name="D:\Python\Project\01Osama Python\Stock Study Python Files\PyAlgoTrade Modifay By Osama" />
       <recent name="D:\Python\Project\01Osama Python\01Stock Market\final Important File 12-4-2020" />
       <recent name="D:\Python\Project\01Osama Python\01Stock Market\Stratigy" />
       <recent name="D:\Python\Project\01Osama Python\01Stock Market\all indicators Calculation indicator" />
-      <recent name="D:\Python\Project\00Osama Python\00Stock Market\py Files for calculate indicator 7-4-2020" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.update all package pip">
-    <configuration name="No4 Stock USA import data 12-4-2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.No1 EGX Ta-Lib all features 13-4-2020">
+    <configuration name="No1 EGX Ta-Lib all features 12-4-2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +119,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock Study Python Files/No4 Stock USA import data 12-4-2020.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock Study Python Files/No1 EGX Ta-Lib all features 12-4-2020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="No5 Stock USA Ta-Lib all features 12-4-2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="No1 EGX Ta-Lib all features 13-4-2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +141,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock Study Python Files/No5 Stock USA Ta-Lib all features 12-4-2020.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\Project\01Osama Python\Stock Study Python Files\No1 EGX Ta-Lib all features 13-4-2020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="No7 Stock USA Study 12-4-2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="No1 Osama Modifay Strategy Close &amp; SMA " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,12 +158,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stock Study Python Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade Modifay By Osama" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock Study Python Files/No7 Stock USA Study 12-4-2020.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade Modifay By Osama/No1 Osama Modifay Strategy Close &amp; SMA .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,29 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="constituents" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Osama" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Stock Study Excel Files/Data/s-and-p-500-companies-financials-master/s-and-p-500-companies-financials-master/scripts" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Stock Study Excel Files/Data/s-and-p-500-companies-financials-master/s-and-p-500-companies-financials-master/scripts/constituents.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="update all package pip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="No1 Strategy Close &amp; SMA " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,7 +185,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/update all package pip.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\Project\01Osama Python\No1 Strategy Close &amp; SMA .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PyAlgoTrade SMA over the RSI over the closing prices " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Osama" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\Project\01Osama Python\PyAlgoTrade SMA over the RSI over the closing prices .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.update all package pip" />
-        <item itemvalue="Python.constituents" />
-        <item itemvalue="Python.No7 Stock USA Study 12-4-2020" />
-        <item itemvalue="Python.No4 Stock USA import data 12-4-2020" />
-        <item itemvalue="Python.No5 Stock USA Ta-Lib all features 12-4-2020" />
+        <item itemvalue="Python.No1 EGX Ta-Lib all features 13-4-2020" />
+        <item itemvalue="Python.No1 EGX Ta-Lib all features 12-4-2020" />
+        <item itemvalue="Python.No1 Osama Modifay Strategy Close &amp; SMA " />
+        <item itemvalue="Python.No1 Strategy Close &amp; SMA " />
+        <item itemvalue="Python.PyAlgoTrade SMA over the RSI over the closing prices " />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +486,10 @@
       <workItem from="1586727030971" duration="53000" />
       <workItem from="1586788174513" duration="209000" />
       <workItem from="1586788412892" duration="1341000" />
-      <workItem from="1586801088169" duration="1009000" />
+      <workItem from="1586801088169" duration="12213000" />
+      <workItem from="1586817547676" duration="1050000" />
+      <workItem from="1586819133100" duration="95000" />
+      <workItem from="1586857786929" duration="7398000" />
     </task>
     <task id="LOCAL-00001" summary="25-1">
       <created>1579882951755</created>
@@ -761,7 +799,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586727055286</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary=" 13-4-2020 Night">
+      <created>1586802243680</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1586802243680</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -774,7 +819,6 @@
       <path value="$PROJECT_DIR$/Complete-Python-3-Bootcamp" />
       <path value="$PROJECT_DIR$/Whatsapp-autosend-script" />
     </ignored-roots>
-    <MESSAGE value="10-2-202" />
     <MESSAGE value="11-2-202" />
     <MESSAGE value="new11-2-202" />
     <MESSAGE value="add education fees file" />
@@ -799,7 +843,8 @@
     <MESSAGE value=" 9-4-2020" />
     <MESSAGE value=" 11-4-2020 add Stock files" />
     <MESSAGE value=" 11-4-2020 Night" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 11-4-2020 Night" />
+    <MESSAGE value=" 13-4-2020 Night" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 13-4-2020 Night" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="108" key="#Code_Folding" timestamp="1582719169392">
@@ -864,49 +909,49 @@
     </state>
     <state x="511" y="188" width="459" height="482" key="#com.intellij.tools.ToolEditorDialog/0.0.1280.720@0.0.1280.720" timestamp="1580832073705" />
     <state x="639" y="235" key="#com.intellij.tools.ToolEditorDialog/0.0.1600.900@0.0.1600.900" timestamp="1580982590121" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586727051036">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586802242007">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.690@0.0.1280.690" timestamp="1579885656796" />
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1586727051036" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1586802242007" />
     <state x="331" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1584444195983" />
     <state x="94" y="94" width="1093" height="502" maximized="true" key="DiffContextDialog" timestamp="1586621201241">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="94" y="94" width="1093" height="502" maximized="true" key="DiffContextDialog/0.0.1280.690@0.0.1280.690" timestamp="1579885755158" />
-    <state x="422" y="106" width="679" height="491" key="FileChooserDialogImpl" timestamp="1586721319834">
+    <state x="422" y="106" width="679" height="491" key="FileChooserDialogImpl" timestamp="1586862986024">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="422" y="102" key="FileChooserDialogImpl/0.0.1280.690@0.0.1280.690" timestamp="1579882857294" />
-    <state x="422" y="106" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1586721319834" />
+    <state x="422" y="106" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1586862986024" />
     <state x="528" y="133" width="679" height="491" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1584358892513" />
     <state x="412" y="228" key="Github.CreatePullRequestDialog" timestamp="1584370877800">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="412" y="228" key="Github.CreatePullRequestDialog/0.0.1280.720@0.0.1280.720" timestamp="1584370877800" />
-    <state width="669" height="569" key="GridCell.Tab.0.bottom" timestamp="1586799532380">
+    <state width="470" height="569" key="GridCell.Tab.0.bottom" timestamp="1586866104982">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="669" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586799532380" />
+    <state width="470" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586866104982" />
     <state width="877" height="748" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1584434690811" />
-    <state width="669" height="569" key="GridCell.Tab.0.center" timestamp="1586799532379">
+    <state width="470" height="569" key="GridCell.Tab.0.center" timestamp="1586866104981">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="669" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586799532379" />
+    <state width="470" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586866104981" />
     <state width="877" height="748" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="669" height="569" key="GridCell.Tab.0.left" timestamp="1586799532379">
+    <state width="470" height="569" key="GridCell.Tab.0.left" timestamp="1586866104981">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="669" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586799532379" />
+    <state width="470" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586866104981" />
     <state width="877" height="748" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="669" height="569" key="GridCell.Tab.0.right" timestamp="1586799532379">
+    <state width="470" height="569" key="GridCell.Tab.0.right" timestamp="1586866104982">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="669" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586799532379" />
+    <state width="470" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586866104982" />
     <state width="877" height="748" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
     <state width="1237" height="210" key="GridCell.Tab.1.bottom" timestamp="1585936921024">
       <screen x="0" y="0" width="1280" height="720" />
@@ -946,20 +991,20 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="478" y="58" key="RollbackChangesDialog/0.0.1280.690@0.0.1280.690" timestamp="1579882907163" />
-    <state x="185" y="7" key="SettingsEditor" timestamp="1586802159648">
+    <state x="185" y="7" key="SettingsEditor" timestamp="1586867734442">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="251" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1579885015085" />
-    <state x="185" y="7" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1586802159648" />
+    <state x="185" y="7" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1586867734442" />
     <state x="398" y="80" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1584432886711" />
     <state x="478" y="278" key="VCS.ChangelistChooser" timestamp="1586620475848">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="478" y="278" key="VCS.ChangelistChooser/0.0.1280.720@0.0.1280.720" timestamp="1586620475848" />
-    <state x="234" y="95" key="Vcs.Push.Dialog.v2" timestamp="1586788504910">
+    <state x="234" y="95" key="Vcs.Push.Dialog.v2" timestamp="1586802254089">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="234" y="95" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1586788504910" />
+    <state x="234" y="95" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1586802254089" />
     <state x="293" y="119" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1584442088400" />
     <state x="397" y="207" key="cloudConfig.PluginsDialog" timestamp="1585168180146">
       <screen x="0" y="0" width="1280" height="720" />
@@ -988,7 +1033,7 @@
     </state>
     <state x="355" y="154" key="git4idea.merge.GitPullDialog/0.0.1280.720@0.0.1280.720" timestamp="1584370720993" />
     <state x="444" y="193" key="git4idea.merge.GitPullDialog/0.0.1600.900@0.0.1600.900" timestamp="1582439081781" />
-    <state width="775" height="340" key="javadoc.popup" timestamp="1586620250520">
+    <state width="775" height="340" key="javadoc.popup" timestamp="1586862696865">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="461" height="241" key="javadoc.popup.new" timestamp="1585383061348">
@@ -996,8 +1041,12 @@
     </state>
     <state width="461" height="241" key="javadoc.popup.new/0.0.1280.720@0.0.1280.720" timestamp="1585383061348" />
     <state width="576" height="301" key="javadoc.popup.new/0.0.1600.900@0.0.1600.900" timestamp="1583652149754" />
-    <state width="775" height="340" key="javadoc.popup/0.0.1280.720@0.0.1280.720" timestamp="1586620250520" />
+    <state width="775" height="340" key="javadoc.popup/0.0.1280.720@0.0.1280.720" timestamp="1586862696865" />
     <state width="968" height="424" key="javadoc.popup/0.0.1600.900@0.0.1600.900" timestamp="1583652140305" />
+    <state x="434" y="220" key="scopes" timestamp="1586803862100">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="434" y="220" key="scopes/0.0.1280.720@0.0.1280.720" timestamp="1586803862100" />
     <state x="370" y="152" width="538" height="543" key="search.everywhere.popup" timestamp="1584089251026">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -1009,98 +1058,103 @@
     <state x="522" y="361" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1600.900@0.0.1600.900" timestamp="1582538738713" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/OsamaPython$Project_Euler_Solutions.coverage" NAME="Project Euler Solutions Coverage Results" MODIFIED="1583768587084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Make_yagamil_ass_app_16_3_2020.coverage" NAME="Make yagamil ass app 16-3-2020 Coverage Results" MODIFIED="1584381541615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$test_3.coverage" NAME="test 3 Coverage Results" MODIFIED="1586471177008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
     <SUITE FILE_PATH="coverage/OsamaPython$New_Milestone_Project_26_2_2020.coverage" NAME="New Milestone Project 26-2-2020 Coverage Results" MODIFIED="1582786250759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python_master$Osama_Study.coverage" NAME="Osama Study Coverage Results" MODIFIED="1584433035232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No1_Osama_Multifiles_One_Indicator_all_time_10_4_2020.coverage" NAME="No1 Osama Multifiles One Indicator all time 10-4-2020 Coverage Results" MODIFIED="1586695144723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$update_all_package_pip.coverage" NAME="update all package pip Coverage Results" MODIFIED="1586802163331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No5_Stock_USA_Ta_Lib_all_features_2.coverage" NAME="No5 Stock USA Ta-Lib all features 2 Coverage Results" MODIFIED="1586697677275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Test_For_Time_Table.coverage" NAME="Test For Time Table Coverage Results" MODIFIED="1581316950425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$generate_contents.coverage" NAME="generate_contents Coverage Results" MODIFIED="1585477097647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No5.coverage" NAME="No5 Coverage Results" MODIFIED="1586697520455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No4_Stock_USA_import_data_12_4_2020.coverage" NAME="No4 Stock USA import data 12-4-2020 Coverage Results" MODIFIED="1586701658072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
     <SUITE FILE_PATH="coverage/OsamaPython$Education_fees.coverage" NAME="Education fees Coverage Results" MODIFIED="1581588986143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Time_Table_10_2_2020__1_.coverage" NAME="Time Table 10-2-2020 (1) Coverage Results" MODIFIED="1581406547951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/02_OsamaPython$osamasendemail.coverage" NAME="osamasendemail Coverage Results" MODIFIED="1584361411775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Time_Tables_7_1_2020.coverage" NAME="Time Tables 7-1-2020 Coverage Results" MODIFIED="1581329890988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/New_Osama_Python$Osama_Study.coverage" NAME="Osama Study Coverage Results" MODIFIED="1584456357978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
     <SUITE FILE_PATH="coverage/OsamaPython$Milestone2.coverage" NAME="Milestone2 Coverage Results" MODIFIED="1582576343295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$test10.coverage" NAME="test10 Coverage Results" MODIFIED="1586544596186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
-    <SUITE FILE_PATH="coverage/OsamaPython$milestonproject1.coverage" NAME="milestonproject1 Coverage Results" MODIFIED="1582640733005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$indicators.coverage" NAME="indicators Coverage Results" MODIFIED="1586118845397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Market/Technical-Indicators-master/indicator" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Milestone_Project_2___Blackjack_Game.coverage" NAME="Milestone Project 2 - Blackjack Game Coverage Results" MODIFIED="1583772290965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01Osama_Python$import_data_from_usa_stock.coverage" NAME="import data from usa stock Coverage Results" MODIFIED="1586643068771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
-    <SUITE FILE_PATH="coverage/OsamaPython$osamasendemail.coverage" NAME="osamasendemail Coverage Results" MODIFIED="1584374627244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python_master$Make_yagamil_Like_app_16_3_2020.coverage" NAME="Make yagamil Like app 16-3-2020 Coverage Results" MODIFIED="1584432889064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No1_Osama_Modifay_Strategy_Close___SMA_.coverage" NAME="No1 Osama Modifay Strategy Close &amp; SMA  Coverage Results" MODIFIED="1586815097258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade Modifay By Osama" />
     <SUITE FILE_PATH="coverage/OsamaPython$test4444.coverage" NAME="test4444 Coverage Results" MODIFIED="1584133078640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Twilio_test.coverage" NAME="Twilio test Coverage Results" MODIFIED="1584118541378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Osama$New_Test.coverage" NAME="New Test Coverage Results" MODIFIED="1579888361701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$test.coverage" NAME="test Coverage Results" MODIFIED="1582135697460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Time_Table_10_2_2020.coverage" NAME="Time Table 10-2-2020 Coverage Results" MODIFIED="1581329768925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01Osama_Python$plots.coverage" NAME="plots Coverage Results" MODIFIED="1586450795282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../From GitHub/Stock Market From GitHub/tia-master/tia/analysis" />
     <SUITE FILE_PATH="coverage/OsamaPython$fprojecttest26_2__1_.coverage" NAME="Milestone Project 26-2-2020 Coverage Results" MODIFIED="1582719265685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$fprojecttest25_2.coverage" NAME="fprojecttest25-2 Coverage Results" MODIFIED="1582649593005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$PythonExercies.coverage" NAME="PythonExercies Coverage Results" MODIFIED="1584292045118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$New_Send_Email.coverage" NAME="New Send Email Coverage Results" MODIFIED="1584133353004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Osama$Mosh_Summary.coverage" NAME="Mosh Summary Coverage Results" MODIFIED="1579883265898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$milestonproject1__1_.coverage" NAME="milestonproject1 (1) Coverage Results" MODIFIED="1582640870451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$Osama_Study.coverage" NAME="Osama Study Coverage Results" MODIFIED="1586038425044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$New_Test.coverage" NAME="New Test Coverage Results" MODIFIED="1586469040872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Nody.coverage" NAME="Nody Coverage Results" MODIFIED="1580054557027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Times_Table_2.coverage" NAME="Times Table 2 Coverage Results" MODIFIED="1581330072835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$New_Test.coverage" NAME="Python Test Coverage Results" MODIFIED="1580055106734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$ggggg.coverage" NAME="milestonproject1 Coverage Results" MODIFIED="1582577474454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Exercies22.coverage" NAME="Exercies22 Coverage Results" MODIFIED="1582190910786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$ggggg__1_.coverage" NAME="ggggg (1) Coverage Results" MODIFIED="1582576755958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Work_With_Excel.coverage" NAME="Work With Excel Coverage Results" MODIFIED="1582539452190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No7_Stock_USA_Study_12_4_2020.coverage" NAME="No7 Stock USA Study 12-4-2020 Coverage Results" MODIFIED="1586701708970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
-    <SUITE FILE_PATH="coverage/00Osama_Python$indicators__1_.coverage" NAME="indicators (1) Coverage Results" MODIFIED="1586294626625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00Stock Market/Indicato Calculation/Technical-Indicators-master/indicator" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$all_indicator_with_Plots.coverage" NAME="all indicator with Plots Coverage Results" MODIFIED="1586451922589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Exercies22__1_.coverage" NAME="guarantee a fixed monthly and annual income Coverage Results" MODIFIED="1582197682222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/00_New_Osama_Python$cookies.coverage" NAME="cookies Coverage Results" MODIFIED="1584897497489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/coursera-dl/coursera" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Send_Email.coverage" NAME="Send Email Coverage Results" MODIFIED="1584082538080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$Amazon_usa.coverage" NAME="Amazon usa Coverage Results" MODIFIED="1586642574344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$No4Stock_USA_import_data_12_4_2020.coverage" NAME="No4Stock USA import data 12-4-2020 Coverage Results" MODIFIED="1586696215634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$constituents.coverage" NAME="constituents Coverage Results" MODIFIED="1586788508098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Stock Study Excel Files/Data/s-and-p-500-companies-financials-master/s-and-p-500-companies-financials-master/scripts" />
     <SUITE FILE_PATH="coverage/01Osama_Python$test_12_4_2020.coverage" NAME="test 12-4-2020 Coverage Results" MODIFIED="1586686762218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
-    <SUITE FILE_PATH="coverage/OsamaPython$test55555.coverage" NAME="test55555 Coverage Results" MODIFIED="1582719059504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Milestone_Project_1.coverage" NAME="Milestone Project 1 Coverage Results" MODIFIED="1582574693538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Osama$New_Time_table.coverage" NAME="New Time table Coverage Results" MODIFIED="1579858004567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Osama$OsamaNotes22_1_2020.coverage" NAME="OsamaNotes22-1-2020 Coverage Results" MODIFIED="1579869916540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1586535137535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$TA_LIB_TEST.coverage" NAME="TA-LIB TEST Coverage Results" MODIFIED="1586340274718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1586803663942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00Osama_Python$TA_LIB_TEST.coverage" NAME="TA-LIB TEST Coverage Results" MODIFIED="1586295574476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$No1_USA_STOCK_analysis_11_4_2020.coverage" NAME="No1 USA STOCK analysis 11-4-2020 Coverage Results" MODIFIED="1586643081959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
-    <SUITE FILE_PATH="coverage/00_New_Osama_Python$add_book_info.coverage" NAME="add_book_info Coverage Results" MODIFIED="1585477046980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Osama_Modules.coverage" NAME="Osama_Modules Coverage Results" MODIFIED="1582788409227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$OsamaTest__1_.coverage" NAME="OsamaTest (1) Coverage Results" MODIFIED="1580829848561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$ta.coverage" NAME="ta Coverage Results" MODIFIED="1586450756797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../From GitHub/Stock Market From GitHub/tia-master/tia/analysis" />
     <SUITE FILE_PATH="coverage/OsamaPython$dddddd.coverage" NAME="dddddd Coverage Results" MODIFIED="1580975253870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$whatsapp.coverage" NAME="whatsapp Coverage Results" MODIFIED="1584611748031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Exercies.coverage" NAME="Exercies Coverage Results" MODIFIED="1582142529640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$ffffffff.coverage" NAME="ffffffff Coverage Results" MODIFIED="1583735498953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OsamaPython$yagmail.coverage" NAME="yagmail Coverage Results" MODIFIED="1584307504099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01Osama_Python$all_features_example.coverage" NAME="all_features_example Coverage Results" MODIFIED="1586429908441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../From GitHub/Stock Market From GitHub/ta-master/examples_to_use" />
-    <SUITE FILE_PATH="coverage/00_New_Osama_Python$fix_kernelspec.coverage" NAME="fix_kernelspec Coverage Results" MODIFIED="1585477085898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
-    <SUITE FILE_PATH="coverage/OsamaPython$Summery_Python__1_.coverage" NAME="Summery Python (1) Coverage Results" MODIFIED="1582566541234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Milestone2__1_.coverage" NAME="Milestone2 (1) Coverage Results" MODIFIED="1582575127253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$USA_Stock_Market.coverage" NAME="USA Stock Market Coverage Results" MODIFIED="1586642586131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No5_Stock_USA_all_Ta_Lib_features_12_4_2020.coverage" NAME="No5 Stock USA all Ta-Lib features 12-4-2020 Coverage Results" MODIFIED="1586697109895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No5_Stock_USA_Ta_Lib_all_features_12_4_2020.coverage" NAME="No5 Stock USA Ta-Lib all features 12-4-2020 Coverage Results" MODIFIED="1586701014002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$add_navigation.coverage" NAME="add_navigation Coverage Results" MODIFIED="1585477067015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
     <SUITE FILE_PATH="coverage/OsamaPython$guarantee_a_fixed_monthly_and_annual_income__1_.coverage" NAME="guarantee a fixed monthly and annual income (1) Coverage Results" MODIFIED="1582205222802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$test33.coverage" NAME="test33 Coverage Results" MODIFIED="1584312687849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/00_New_Osama_Python$Test_Cal_SuperTrend_5_4_2020.coverage" NAME="Test Cal SuperTrend 5-4-2020 Coverage Results" MODIFIED="1586126755567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Market" />
     <SUITE FILE_PATH="coverage/OsamaPython$hackerrank_com.coverage" NAME="hackerrank.com Coverage Results" MODIFIED="1583856766441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01Osama_Python$pdf_rpts.coverage" NAME="pdf_rpts Coverage Results" MODIFIED="1586450823664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../From GitHub/Stock Market From GitHub/tia-master/tia/analysis" />
+    <SUITE FILE_PATH="coverage/02_OsamaPython$Test_For_file.coverage" NAME="Test For file Coverage Results" MODIFIED="1584355841058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No5USA_STOCK_analysis_11_4_2020.coverage" NAME="No5USA STOCK analysis 11-4-2020 Coverage Results" MODIFIED="1586697279630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Project_Euler_Solutions.coverage" NAME="Project Euler Solutions Coverage Results" MODIFIED="1583768587084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$test_3.coverage" NAME="test 3 Coverage Results" MODIFIED="1586471177008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$update_all_package_pip.coverage" NAME="update all package pip Coverage Results" MODIFIED="1586802857115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Test_For_Time_Table.coverage" NAME="Test For Time Table Coverage Results" MODIFIED="1581316950425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1586803170701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Time_Tables_7_1_2020.coverage" NAME="Time Tables 7-1-2020 Coverage Results" MODIFIED="1581329890988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/New_Osama_Python$Osama_Study.coverage" NAME="Osama Study Coverage Results" MODIFIED="1584456357978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$test10.coverage" NAME="test10 Coverage Results" MODIFIED="1586544596186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
+    <SUITE FILE_PATH="coverage/OsamaPython$milestonproject1.coverage" NAME="milestonproject1 Coverage Results" MODIFIED="1582640733005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Milestone_Project_2___Blackjack_Game.coverage" NAME="Milestone Project 2 - Blackjack Game Coverage Results" MODIFIED="1583772290965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$osamasendemail.coverage" NAME="osamasendemail Coverage Results" MODIFIED="1584374627244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1586803148788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$test.coverage" NAME="test Coverage Results" MODIFIED="1582135697460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Time_Table_10_2_2020.coverage" NAME="Time Table 10-2-2020 Coverage Results" MODIFIED="1581329768925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No1_EGX_Ta_Lib_all_features_12_4_2020.coverage" NAME="No1 EGX Ta-Lib all features 12-4-2020 Coverage Results" MODIFIED="1586858061494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
+    <SUITE FILE_PATH="coverage/OsamaPython$PythonExercies.coverage" NAME="PythonExercies Coverage Results" MODIFIED="1584292045118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$New_Send_Email.coverage" NAME="New Send Email Coverage Results" MODIFIED="1584133353004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$milestonproject1__1_.coverage" NAME="milestonproject1 (1) Coverage Results" MODIFIED="1582640870451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$New_Test.coverage" NAME="New Test Coverage Results" MODIFIED="1586469040872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Nody.coverage" NAME="Nody Coverage Results" MODIFIED="1580054557027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$ggggg.coverage" NAME="milestonproject1 Coverage Results" MODIFIED="1582577474454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/00Osama_Python$indicators__1_.coverage" NAME="indicators (1) Coverage Results" MODIFIED="1586294626625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00Stock Market/Indicato Calculation/Technical-Indicators-master/indicator" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$all_indicator_with_Plots.coverage" NAME="all indicator with Plots Coverage Results" MODIFIED="1586451922589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Exercies22__1_.coverage" NAME="guarantee a fixed monthly and annual income Coverage Results" MODIFIED="1582197682222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/00_New_Osama_Python$cookies.coverage" NAME="cookies Coverage Results" MODIFIED="1584897497489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/coursera-dl/coursera" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Send_Email.coverage" NAME="Send Email Coverage Results" MODIFIED="1584082538080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$test.coverage" NAME="No1 EGX Ta-Lib all features 13-4-2020 Coverage Results" MODIFIED="1586863200617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$Amazon_usa.coverage" NAME="Amazon usa Coverage Results" MODIFIED="1586642574344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No4Stock_USA_import_data_12_4_2020.coverage" NAME="No4Stock USA import data 12-4-2020 Coverage Results" MODIFIED="1586696215634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$constituents.coverage" NAME="constituents Coverage Results" MODIFIED="1586788508098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Stock Study Excel Files/Data/s-and-p-500-companies-financials-master/s-and-p-500-companies-financials-master/scripts" />
+    <SUITE FILE_PATH="coverage/OsamaPython$test55555.coverage" NAME="test55555 Coverage Results" MODIFIED="1582719059504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Milestone_Project_1.coverage" NAME="Milestone Project 1 Coverage Results" MODIFIED="1582574693538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Osama$New_Time_table.coverage" NAME="New Time table Coverage Results" MODIFIED="1579858004567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$TA_LIB_TEST.coverage" NAME="TA-LIB TEST Coverage Results" MODIFIED="1586340274718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No1_USA_STOCK_analysis_11_4_2020.coverage" NAME="No1 USA STOCK analysis 11-4-2020 Coverage Results" MODIFIED="1586643081959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
+    <SUITE FILE_PATH="coverage/00_New_Osama_Python$add_book_info.coverage" NAME="add_book_info Coverage Results" MODIFIED="1585477046980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Osama_Modules.coverage" NAME="Osama_Modules Coverage Results" MODIFIED="1582788409227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$ta.coverage" NAME="ta Coverage Results" MODIFIED="1586450756797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../From GitHub/Stock Market From GitHub/tia-master/tia/analysis" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Exercies.coverage" NAME="Exercies Coverage Results" MODIFIED="1582142529640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OsamaPython$yagmail.coverage" NAME="yagmail Coverage Results" MODIFIED="1584307504099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/00_New_Osama_Python$fix_kernelspec.coverage" NAME="fix_kernelspec Coverage Results" MODIFIED="1585477085898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
+    <SUITE FILE_PATH="coverage/OsamaPython$Summery_Python__1_.coverage" NAME="Summery Python (1) Coverage Results" MODIFIED="1582566541234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$USA_Stock_Market.coverage" NAME="USA Stock Market Coverage Results" MODIFIED="1586642586131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
+    <SUITE FILE_PATH="coverage/00_New_Osama_Python$Test_Cal_SuperTrend_5_4_2020.coverage" NAME="Test Cal SuperTrend 5-4-2020 Coverage Results" MODIFIED="1586126755567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Market" />
     <SUITE FILE_PATH="coverage/OsamaPython$osamamodules__1_.coverage" NAME="osamamodules (1) Coverage Results" MODIFIED="1582054598361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/00Osama_Python$indicator_Test.coverage" NAME="indicator Test Coverage Results" MODIFIED="1586275079520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00Stock Market/Indicato Calculation" />
     <SUITE FILE_PATH="coverage/OsamaPython$New_Time_table.coverage" NAME="New Time table Coverage Results" MODIFIED="1580984438575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/02_OsamaPython$Test_For_file.coverage" NAME="Test For file Coverage Results" MODIFIED="1584355841058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01Osama_Python$TA_Lib_all_Indicator_NO1_Very_important_9_4_2020.coverage" NAME="TA-Lib all Indicator NO1 Very important 9-4-2020 Coverage Results" MODIFIED="1586435865243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$No5USA_STOCK_analysis_11_4_2020.coverage" NAME="No5USA STOCK analysis 11-4-2020 Coverage Results" MODIFIED="1586697279630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No1_all_features_for_EGX_Stock12_4_2020.coverage" NAME="No1 all features for EGX Stock12-4-2020 Coverage Results" MODIFIED="1586688342129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/final Important File 12-4-2020" />
   </component>
 </project>
