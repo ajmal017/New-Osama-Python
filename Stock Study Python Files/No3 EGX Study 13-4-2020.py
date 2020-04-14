@@ -3,19 +3,16 @@ import ta
 import glob
 # Import Built-Ins
 import logging
-# Import Third-Party
-# Import Homebrew
-import matplotlib.pyplot as plt
 
-plt.style.use('bmh')
 # Init Logging Facilities
 log = logging.getLogger(__name__)
 #################################################################
 # 1- Load data
 indicators_value = []
 ticker_name = []
-glob.glob("D:\Stock Study Excel Files\Input Excel Files\EGX\*.xls")
-for f in glob.glob('D:\Stock Study Excel Files\Input Excel Files\EGX\*.xls'):
+folder_path = "D:\Stock Study Excel Files\Input Excel Files\EGX\*.xls"
+glob.glob(folder_path)
+for f in glob.glob(folder_path):
     df = pd.read_excel(f, skiprows=1)
     df.columns = map(str.capitalize, df.columns)
     df.rename(columns={'Volume': 'Volume_BTC'}, inplace=True)

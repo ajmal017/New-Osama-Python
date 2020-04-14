@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7b16591-7e2e-4f75-af43-b38562b35faa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01Stock Market/.idea/Stock Market.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/No1 Strategy Close &amp; SMA .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyAlgoTrade SMA over the RSI over the closing prices .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyAlgoTrade closing SMA prices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyAlgoTrade prints closing prices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/.ipynb_checkpoints/Stock USA Every Things 12-4-2020-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade Modifay By Osama/.ipynb_checkpoints/No1 Osama Modifay Strategy Close &amp; SMA 13-4-2020-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade Modifay By Osama/No1 Osama Modifay Strategy Close &amp; SMA .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade Modifay By Osama/No1 Osama Modifay Strategy Close &amp; SMA 13-4-2020.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade/No1 Strategy Close &amp; SMA .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade/PyAlgoTrade SMA over the RSI over the closing prices .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade/PyAlgoTrade closing SMA prices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stock Study Python Files/PyAlgoTrade/PyAlgoTrade prints closing prices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zipline/.idea/Zipline.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zipline/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zipline/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zipline/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zipline/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zipline/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zipline/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/osama.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Osama.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Osama.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stock Study Python Files/.ipynb_checkpoints/EGX Egypt Stock 12-4-2020-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stock Study Python Files/EGX Egypt Stock 12-4-2020.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stock Study Python Files/Stock USA Every Things 12-4-2020.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Stock Study Python Files/Stock USA Every Things 12-4-2020.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -489,7 +459,8 @@
       <workItem from="1586801088169" duration="12213000" />
       <workItem from="1586817547676" duration="1050000" />
       <workItem from="1586819133100" duration="95000" />
-      <workItem from="1586857786929" duration="7398000" />
+      <workItem from="1586857786929" duration="7923000" />
+      <workItem from="1586873901988" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="25-1">
       <created>1579882951755</created>
@@ -806,7 +777,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586802243680</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary=" 14-4-2020 Day">
+      <created>1586871232108</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1586871232110</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -819,7 +797,6 @@
       <path value="$PROJECT_DIR$/Complete-Python-3-Bootcamp" />
       <path value="$PROJECT_DIR$/Whatsapp-autosend-script" />
     </ignored-roots>
-    <MESSAGE value="11-2-202" />
     <MESSAGE value="new11-2-202" />
     <MESSAGE value="add education fees file" />
     <MESSAGE value="Modify education fees file" />
@@ -844,7 +821,8 @@
     <MESSAGE value=" 11-4-2020 add Stock files" />
     <MESSAGE value=" 11-4-2020 Night" />
     <MESSAGE value=" 13-4-2020 Night" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 13-4-2020 Night" />
+    <MESSAGE value=" 14-4-2020 Day" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 14-4-2020 Day" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="108" key="#Code_Folding" timestamp="1582719169392">
@@ -909,49 +887,49 @@
     </state>
     <state x="511" y="188" width="459" height="482" key="#com.intellij.tools.ToolEditorDialog/0.0.1280.720@0.0.1280.720" timestamp="1580832073705" />
     <state x="639" y="235" key="#com.intellij.tools.ToolEditorDialog/0.0.1600.900@0.0.1600.900" timestamp="1580982590121" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586802242007">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586871229716">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.690@0.0.1280.690" timestamp="1579885656796" />
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1586802242007" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1586871229716" />
     <state x="331" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1584444195983" />
     <state x="94" y="94" width="1093" height="502" maximized="true" key="DiffContextDialog" timestamp="1586621201241">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="94" y="94" width="1093" height="502" maximized="true" key="DiffContextDialog/0.0.1280.690@0.0.1280.690" timestamp="1579885755158" />
-    <state x="422" y="106" width="679" height="491" key="FileChooserDialogImpl" timestamp="1586862986024">
+    <state x="422" y="106" width="679" height="491" key="FileChooserDialogImpl" timestamp="1586873936934">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="422" y="102" key="FileChooserDialogImpl/0.0.1280.690@0.0.1280.690" timestamp="1579882857294" />
-    <state x="422" y="106" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1586862986024" />
+    <state x="422" y="106" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1586873936934" />
     <state x="528" y="133" width="679" height="491" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1584358892513" />
     <state x="412" y="228" key="Github.CreatePullRequestDialog" timestamp="1584370877800">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="412" y="228" key="Github.CreatePullRequestDialog/0.0.1280.720@0.0.1280.720" timestamp="1584370877800" />
-    <state width="470" height="569" key="GridCell.Tab.0.bottom" timestamp="1586866104982">
+    <state width="470" height="569" key="GridCell.Tab.0.bottom" timestamp="1586871732917">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="470" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586866104982" />
+    <state width="470" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586871732917" />
     <state width="877" height="748" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1584434690811" />
-    <state width="470" height="569" key="GridCell.Tab.0.center" timestamp="1586866104981">
+    <state width="470" height="569" key="GridCell.Tab.0.center" timestamp="1586871732917">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="470" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586866104981" />
+    <state width="470" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586871732917" />
     <state width="877" height="748" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="470" height="569" key="GridCell.Tab.0.left" timestamp="1586866104981">
+    <state width="470" height="569" key="GridCell.Tab.0.left" timestamp="1586871732917">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="470" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586866104981" />
+    <state width="470" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586871732917" />
     <state width="877" height="748" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="470" height="569" key="GridCell.Tab.0.right" timestamp="1586866104982">
+    <state width="470" height="569" key="GridCell.Tab.0.right" timestamp="1586871732917">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="470" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586866104982" />
+    <state width="470" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586871732917" />
     <state width="877" height="748" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
     <state width="1237" height="210" key="GridCell.Tab.1.bottom" timestamp="1585936921024">
       <screen x="0" y="0" width="1280" height="720" />
@@ -1001,10 +979,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="478" y="278" key="VCS.ChangelistChooser/0.0.1280.720@0.0.1280.720" timestamp="1586620475848" />
-    <state x="234" y="95" key="Vcs.Push.Dialog.v2" timestamp="1586802254089">
+    <state x="234" y="95" key="Vcs.Push.Dialog.v2" timestamp="1586871241474">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="234" y="95" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1586802254089" />
+    <state x="234" y="95" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1586871241474" />
     <state x="293" y="119" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1584442088400" />
     <state x="397" y="207" key="cloudConfig.PluginsDialog" timestamp="1585168180146">
       <screen x="0" y="0" width="1280" height="720" />
