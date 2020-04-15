@@ -10,7 +10,7 @@ log = logging.getLogger(__name__)
 # 1- Load data
 indicators_value = []
 ticker_name = []
-folder_path = "D:\Stock Study Excel Files\Input Excel Files\EGX\*.xls"
+folder_path = "D:\*.xls"
 glob.glob(folder_path)
 for f in glob.glob(folder_path):
     df = pd.read_excel(f, skiprows=1)
@@ -35,7 +35,7 @@ for f in glob.glob(folder_path):
     indicators = ['trend_psar']  # The indicators to be studied
     for indicator in indicators:
         # 3.1 Determine the Date of  first buy signal and then exit the loop
-        for y in range(10, len(df.index)):
+        for y in range(750, len(df.index)):
             if df[indicator].iloc[y] <= df['Close'].iloc[y] and (df[indicator].iloc[y - 1] > df['Close'].iloc[y - 1]):
                 first_buy_signal = y
                 break
@@ -77,6 +77,6 @@ basic = pd.DataFrame(indicators_value, ticker_name)
 indicators_na = pd.DataFrame(indicators, index=[0])
 final_results = pd.concat([indicators_na, basic], axis=0)
 # final_results.insert(0, 'TICKER', tike)
-final_results.round(2).to_excel('D:\Stock Study Excel Files\Output Excel Files\EGX\indicators.xlsx', sheet_name=tike,
+final_results.round(2).to_excel('D:\Stock Study Excel Files\Output Excel Files\indicators.xlsx', sheet_name=tike,
                                 index=True, index_label="TICKER")
 print(final_results)
