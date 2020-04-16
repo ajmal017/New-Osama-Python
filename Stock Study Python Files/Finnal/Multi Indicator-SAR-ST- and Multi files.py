@@ -438,7 +438,6 @@ for f in glob.glob(folder_path):
 
         e = sum(profits['Profits Value'])
         total_profits_value.append(e)
-        print(total_profits_value)
         total_profits_per.append(((e - a) / a) * 100)
 
         # We Must add eles here

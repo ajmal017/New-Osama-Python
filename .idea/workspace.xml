@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7b16591-7e2e-4f75-af43-b38562b35faa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/.ipynb_checkpoints/to Drawing indicator -checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/to Drawing indicator .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01Stock Market/all indicators Calculation indicator/to Drawing indicator .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Study Python Files/.idea/Stock Study Python Files.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Stock Study Python Files/.idea/Stock Study Python Files.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Study Python Files/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Stock Study Python Files/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stock Study Python Files/Finnal/Multi Indicator-SAR-ST- and Multi files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stock Study Python Files/Finnal/Multi Indicator-SAR-ST- and Multi files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled1.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +68,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Stock Study Python Files" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Jupyter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -75,7 +84,29 @@
       <recent name="D:\Python\Project\01Osama Python\01Stock Market\all indicators Calculation indicator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.No1 EGX Ta-Lib all features 13-4-2020">
+  <component name="RunManager" selected="Python.Multi Indicator-SAR-ST- and Multi files">
+    <configuration name="Multi Indicator-SAR-ST- and Multi files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Osama" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stock Study Python Files/Finnal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock Study Python Files/Finnal/Multi Indicator-SAR-ST- and Multi files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="No1 EGX Ta-Lib all features 12-4-2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Osama" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,35 +195,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PyAlgoTrade SMA over the RSI over the closing prices " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Osama" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Python\Project\01Osama Python\PyAlgoTrade SMA over the RSI over the closing prices .py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.No1 EGX Ta-Lib all features 13-4-2020" />
+        <item itemvalue="Python.Multi Indicator-SAR-ST- and Multi files" />
         <item itemvalue="Python.No1 EGX Ta-Lib all features 12-4-2020" />
+        <item itemvalue="Python.No1 EGX Ta-Lib all features 13-4-2020" />
         <item itemvalue="Python.No1 Osama Modifay Strategy Close &amp; SMA " />
         <item itemvalue="Python.No1 Strategy Close &amp; SMA " />
-        <item itemvalue="Python.PyAlgoTrade SMA over the RSI over the closing prices " />
       </list>
     </recent_temporary>
   </component>
@@ -461,6 +470,9 @@
       <workItem from="1586819133100" duration="95000" />
       <workItem from="1586857786929" duration="7923000" />
       <workItem from="1586873901988" duration="37000" />
+      <workItem from="1587061058100" duration="1544000" />
+      <workItem from="1587067280110" duration="145000" />
+      <workItem from="1587067658272" duration="2016000" />
     </task>
     <task id="LOCAL-00001" summary="25-1">
       <created>1579882951755</created>
@@ -907,29 +919,29 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="412" y="228" key="Github.CreatePullRequestDialog/0.0.1280.720@0.0.1280.720" timestamp="1584370877800" />
-    <state width="470" height="569" key="GridCell.Tab.0.bottom" timestamp="1586871732917">
+    <state width="470" height="569" key="GridCell.Tab.0.bottom" timestamp="1587069063693">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="470" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586871732917" />
+    <state width="470" height="569" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1587069063693" />
     <state width="877" height="748" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1584434690811" />
-    <state width="470" height="569" key="GridCell.Tab.0.center" timestamp="1586871732917">
+    <state width="470" height="569" key="GridCell.Tab.0.center" timestamp="1587069063693">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="470" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586871732917" />
+    <state width="470" height="569" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1587069063693" />
     <state width="877" height="748" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="470" height="569" key="GridCell.Tab.0.left" timestamp="1586871732917">
+    <state width="470" height="569" key="GridCell.Tab.0.left" timestamp="1587069063692">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="470" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586871732917" />
+    <state width="470" height="569" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1587069063692" />
     <state width="877" height="748" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
-    <state width="470" height="569" key="GridCell.Tab.0.right" timestamp="1586871732917">
+    <state width="470" height="569" key="GridCell.Tab.0.right" timestamp="1587069063693">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="406" height="539" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1579884271003" />
-    <state width="470" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586871732917" />
+    <state width="470" height="569" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1587069063693" />
     <state width="877" height="748" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1584434690810" />
     <state width="1237" height="210" key="GridCell.Tab.1.bottom" timestamp="1585936921024">
       <screen x="0" y="0" width="1280" height="720" />
@@ -951,10 +963,10 @@
     </state>
     <state width="1237" height="210" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1585936921024" />
     <state width="1557" height="282" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1582539903638" />
-    <state x="222" y="97" key="IDE.errors.dialog" timestamp="1586620626853">
+    <state x="222" y="97" key="IDE.errors.dialog" timestamp="1587069083893">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="222" y="97" key="IDE.errors.dialog/0.0.1280.720@0.0.1280.720" timestamp="1586620626853" />
+    <state x="222" y="97" key="IDE.errors.dialog/0.0.1280.720@0.0.1280.720" timestamp="1587069083893" />
     <state x="278" y="121" key="IDE.errors.dialog/0.0.1600.900@0.0.1600.900" timestamp="1580985567797" />
     <state x="152" y="71" key="MergeDialog" timestamp="1581489477400">
       <screen x="0" y="0" width="1600" height="900" />
@@ -969,11 +981,11 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="478" y="58" key="RollbackChangesDialog/0.0.1280.690@0.0.1280.690" timestamp="1579882907163" />
-    <state x="185" y="7" key="SettingsEditor" timestamp="1586867734442">
+    <state x="185" y="7" key="SettingsEditor" timestamp="1587068955210">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="251" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1579885015085" />
-    <state x="185" y="7" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1586867734442" />
+    <state x="185" y="7" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1587068955210" />
     <state x="398" y="80" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1584432886711" />
     <state x="478" y="278" key="VCS.ChangelistChooser" timestamp="1586620475848">
       <screen x="0" y="0" width="1280" height="720" />
@@ -1041,6 +1053,7 @@
     <SUITE FILE_PATH="coverage/00_New_Osama_Python_master$Osama_Study.coverage" NAME="Osama Study Coverage Results" MODIFIED="1584433035232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/For Study" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No1_Osama_Multifiles_One_Indicator_all_time_10_4_2020.coverage" NAME="No1 Osama Multifiles One Indicator all time 10-4-2020 Coverage Results" MODIFIED="1586695144723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Stock Market/Stratigy" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No5_Stock_USA_Ta_Lib_all_features_2.coverage" NAME="No5 Stock USA Ta-Lib all features 2 Coverage Results" MODIFIED="1586697677275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$Multi_Indicator_SAR_ST__and_Multi_files.coverage" NAME="Multi Indicator-SAR-ST- and Multi files Coverage Results" MODIFIED="1587067986408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files/Finnal" />
     <SUITE FILE_PATH="coverage/00_New_Osama_Python$generate_contents.coverage" NAME="generate_contents Coverage Results" MODIFIED="1585477097647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonDataScienceHandbook-master/tools" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No5.coverage" NAME="No5 Coverage Results" MODIFIED="1586697520455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/01Osama_Python$No4_Stock_USA_import_data_12_4_2020.coverage" NAME="No4 Stock USA import data 12-4-2020 Coverage Results" MODIFIED="1586701658072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
@@ -1099,7 +1112,7 @@
     <SUITE FILE_PATH="coverage/01Osama_Python$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1586803148788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$test.coverage" NAME="test Coverage Results" MODIFIED="1582135697460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$Time_Table_10_2_2020.coverage" NAME="Time Table 10-2-2020 Coverage Results" MODIFIED="1581329768925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/01Osama_Python$No1_EGX_Ta_Lib_all_features_12_4_2020.coverage" NAME="No1 EGX Ta-Lib all features 12-4-2020 Coverage Results" MODIFIED="1586858061494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
+    <SUITE FILE_PATH="coverage/01Osama_Python$No1_EGX_Ta_Lib_all_features_12_4_2020.coverage" NAME="No1 EGX Ta-Lib all features 12-4-2020 Coverage Results" MODIFIED="1587062471189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock Study Python Files" />
     <SUITE FILE_PATH="coverage/OsamaPython$PythonExercies.coverage" NAME="PythonExercies Coverage Results" MODIFIED="1584292045118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$New_Send_Email.coverage" NAME="New Send Email Coverage Results" MODIFIED="1584133353004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OsamaPython$milestonproject1__1_.coverage" NAME="milestonproject1 (1) Coverage Results" MODIFIED="1582640870451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
